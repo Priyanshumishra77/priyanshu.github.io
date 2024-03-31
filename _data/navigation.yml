@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Self Explored Knowledge"
+    url: /self Explored Knowledge/   
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "MOOC Course Taken"
+    url: /m00c Course Taken/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research & Papers"
+    url: /research & Papers/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Hobbies"
+    url: /hobbies/
