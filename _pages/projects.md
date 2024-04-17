@@ -92,3 +92,28 @@ of the data structure accessible from each heap directed pointer. This will
 help in automatic parallelization of sequential code having heap intensive data
 structures.  The work mainly focuses on devising a novel shape analysis
 technique.
+
+
+Reed Solomon Error correction code decoder hardware accelerator 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
+
+Improving Cache efficiency by exploiting read-write disparity 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
+
+Processor Beyond 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
+
+Formal Verification of cache coherence protocol using Murphi 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
