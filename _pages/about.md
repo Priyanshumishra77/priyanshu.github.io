@@ -16,7 +16,7 @@ Research Interests
  - Processor Micro-architecture
  - Energy Efficient Computing
  - AI hardware accelerators
- - Y86-64/RISC-V CPU/SoC Design and Verification
+ - Y86-64/RISC-V CPU/SoC Design and Verification(Digital VLSI)
  - CPU/GPU/TPU/NPU/APU/XPU/HPC
 
 Career Overview
