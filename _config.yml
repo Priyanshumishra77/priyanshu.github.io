@@ -177,10 +177,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Self Explored Knowledge:
     output: true
     permalink: /:collection/:path/
-  publications:
+  MOOC Course Taken:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -214,7 +214,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Self Explored Knowledge
     values:
       layout: single
       author_profile: true
@@ -223,7 +223,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: MOOC Course Taken
     values:
       layout: single
       author_profile: true
