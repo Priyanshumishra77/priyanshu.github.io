@@ -21,7 +21,7 @@ Research Interests
 
 Career Overview
 ---------------
- - [June, 2020 - ] Full-time Software Engineer at [Google Brain](https://research.google/teams/brain/).
+ - [June, 2024 - Present] Full-time Verification Engineer at [SiSoC Semiconductor Technologies].
  - [August, 2013 - May, 2020] PhD from [University of illinois at Urbana Champaign](http://illinois.edu/) advised by [Prof. Vikram Adve](http://vikram.cs.illinois.edu/).
       - Worked under [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) on "Scalable validation of Binary Lifters".
       - Internships
