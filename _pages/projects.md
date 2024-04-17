@@ -117,3 +117,21 @@ Formal Verification of cache coherence protocol using Murphi
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.
+
+Binary Artificial Neural network using Verilog - ASIC & FPGA Design with verilog 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
+
+Superscalar Pipeline Simulator 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
+
+cva6, OpenPiton, Mor1kx, and CLARVI ---- ONGOING MY PERSONAL RESEARCH
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
