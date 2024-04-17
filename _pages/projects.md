@@ -84,7 +84,7 @@ exploration of space by chares include intelligent pruning of the state space,
  - [Introduction to Parallel Programming for Scientists and Engineers](https://cs.illinois.edu/courses/profile/CS420)
 -->
 
-Precise Shape Analysis using Field Sensitvity <a href="http://www.cse.iitk.ac.in/users/karkare/MTP/2010-11/sandeep2010precise.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+FPGA Design of  superscalar out-of-order processor <a href="http://www.cse.iitk.ac.in/users/karkare/MTP/2010-11/sandeep2010precise.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: To disambiguate heap
 allocated data-structures by estimating the shape (Tree, Dag or Cyclic Graph )
