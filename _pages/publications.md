@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Self Explored Knowledge"
+permalink: /self explored knowledge/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.self explored knowledge reversed %}
   {% include archive-single.html %}
 {% endfor %}
