@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time Software Engineer at SiSoC Semiconductor Technologies, working on Design and Verification of a RISC-V CPU/SoC.
+I am a full-time Verification Engineer at SiSoC Semiconductor Technologies, working on Design and Verification of a RISC-V CPU/SoC.
 
 Research Interests
 ------------------
@@ -17,7 +17,7 @@ Research Interests
  - Energy Efficient Computing
  - AI hardware accelerators
  - Y86-64/RISC-V CPU/SoC Design and Verification
- - CPU/GPU/TPU/NPU/APU/XPU
+ - CPU/GPU/TPU/NPU/APU/XPU/HPC
 
 Career Overview
 ---------------
