@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time Software Engineer at [Google Brain](https://research.google/teams/brain/) working on compilation of deep learning models.
+I am a full-time Software Engineer at SiSoC Semiconductor Technologies, working on Design and Verification of a RISC-V CPU/SoC.
 
 Research Interests
 ------------------
- - Compiler for ML and ML for compilers
- - Compiler Optimizations & Code Generation
- - Formal ISA semantics
- - Binary Reverse Engineering
- - Translation Validation of Binary Lifters
- - Program Static Analysis & verification
- - Parallelizing Compilers
- - Parallel & Power aware Computation
+ - Advanced Computer Architecture and Organization
+ - Processor Micro-architecture
+ - Energy Efficient Computing
+ - AI hardware accelerators
+ - Y86-64/RISC-V CPU/SoC Design and Verification
+ - CPU/GPU/TPU/NPU/APU/XPU
 
 Career Overview
 ---------------
