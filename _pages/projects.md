@@ -135,3 +135,9 @@ cva6, OpenPiton, Mor1kx, and CLARVI ---- ONGOING MY PERSONAL RESEARCH
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.
+
+SMT based GPGPU Design 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
