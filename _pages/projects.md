@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-32-bit Out-Of-Order Tomasulo CPU 
+32-bit Out-Of-Order Tomasulo Execution Engine 
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
