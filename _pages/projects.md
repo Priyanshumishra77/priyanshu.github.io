@@ -7,13 +7,13 @@ redirect_from:
   - /projects
 ---
 
-Clang based AST Instrumentation <a href="https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a>
+32-bit Out-Of-Order Tomasulo CPU 
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.  
 
-LLVM based Dwarf Type Reader <a href="https://github.com/sdasgup3/dwarf-type-reader" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a>
+Functional Verification of  MESI protocol based L1 cache coherent system
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** To read type information from debug info section of executable
 using LLVM based APIs.
@@ -22,19 +22,19 @@ using LLVM based APIs.
 Pointer Analysis Debugger <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text"><i class="fa fa-file-powerpoint-o" aria-hidden="true" style="font-size:48px;color:black;"></i></a>
 -->
 
-Pointer Analysis Debugger <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/ppt.png)</a>
+Simulator for LC-3b ISA <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/ppt.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Finding bugs in LLVM's pointer analysis using a mix of static
 analysis and symbolic execution (using KLEE).
 
-Partial Redundancy Elimination (PRE) <a href="https://github.com/sdasgup3/PartialRedundancyElimination" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_cs526.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+Branch Predictors(global 2-bit, bimodal, and correlated) and Branch predictor simulator
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: PRE is a compiler optimization that eliminates expressions that
 are redundant on some but not necessarily all paths through a program. In this
 project, we implemented a PRE optimization pass in LLVM and measured results on
 a variety of applications. 
 
-Implementing "Non-Separable" Data-Flow-Analyzer <a href="https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_gdfa.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+Cache & Memory Hierarchy Design simulator <a href="https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_gdfa.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: To Extend the Generic Data Flow Analyzer GDFA (of gcc) to the
 data flow frameworks where data flow information can be represented using bit
@@ -42,14 +42,14 @@ vectors but the frameworks are not bit vector frameworks because they are
 non-separable e.g., faint variable analysis, possible undefined variable
 analysis, strongly live variable analysis.	
 
-Designing Interpreter for a dynamic language for Graph Algorithms <a href="https://github.com/sdasgup3/gri" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_cs598dhp.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+Design CAM unit and LRU stack using verilog and simulate on Modelsim <a href="https://github.com/sdasgup3/gri" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_cs598dhp.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: Designed a dynamically typed language and an interpreter for it
 and achieved a slowdown of 2X w.r.t the execution time of statically compiled C
 language. This is obtained by providing built-in compiled functions for simple
 graph computation which in turn help to build complex ones.
 
-Mitigating Impact of Heterogeneity Across Power-constrained Nodes on Parallel Applications through Load Balancing <a href="https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_hetero.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+Y86-64 CPU  design and formal verification <a href="https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_hetero.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: Different processors across the nodes have different execution
 times for the same work-loads. This performance imbalance is seen only when the
