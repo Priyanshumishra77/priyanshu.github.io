@@ -58,14 +58,14 @@ execution times of the parallel applications. We did a detailed study and
 proposed a power aware load balancer (using Charm++ ) which minimized the
 performance imbalance at the lower power caps by tackling this heterogeneity.  
 
-Designing Superscalar Processor <a href="https://github.com/sdasgup3/Parallel-Processor-Design"  rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a>
+Chip Multiprocessor with core multithreading <a href="https://github.com/sdasgup3/Parallel-Processor-Design"  rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: To design a customized processor (using parallel processing
     concepts) for the application of document retrieval system. We developed a
 superscalar processor (with  an issue rate of 2) using verilog hdl, and an
 assembler for that processor using flex and bison. 
 
-Graph Coloring Using State Space Search <a href="https://github.com/sdasgup3/ParallelSudoku" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/CS598_project_proposal.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
+Out-Of-Order MIPS R10K style processor design based on RISC-V ISA and an In-Order CPU based on RISC-V ISA <a href="https://github.com/sdasgup3/ParallelSudoku" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/CS598_project_proposal.pdf" rel="some text">![Foo](https://sdasgup3.github.io/images/report.png)</a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: We plan to leverage the state space search model for implementing
 graph coloring in parallel in Charm++. Some of the challenges for efficient
