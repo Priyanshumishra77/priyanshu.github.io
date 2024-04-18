@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Self Explored Knowledge"
-    url: /self Explored Knowledge/   
+  - title: "DIY Projects"
+    url: /DIY Projects/   
 
-  - title: "MOOC Course Taken"
-    url: /mooc Course Taken/ 
+  - title: "MOOC Courses"
+    url: /mooc Courses/ 
 
   - title: "Research & Papers"
     url: /research & Papers/
