@@ -177,18 +177,18 @@ kramdown:
 
 # Collections
 collections:
-  Self Explored Knowledge:
+  DIY Projects:
     output: true
     permalink: /:collection/:path/
-  MOOC Course Taken:
+  MOOC Courses:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+   # output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults
@@ -214,7 +214,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: Self Explored Knowledge
+      type: DIY Projects
     values:
       layout: single
       author_profile: true
@@ -223,7 +223,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: MOOC Course Taken
+      type: MOOC Courses
     values:
       layout: single
       author_profile: true
