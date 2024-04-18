@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Industry Experience"
-permalink: /industry/
+title: "MOOC Courses"
+permalink: /mooc courses/
 author_profile: true
 redirect_from: 
-  - /industry
+  - /mooc courses
 ---
 
 [Google Inc.](https://www.google.com/intl/en/about/), Software Engineering Google Brain, June 2020 - present
