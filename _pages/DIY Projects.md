@@ -4,7 +4,7 @@ title: "DIY Projects"
 permalink: /diy projects/
 author_profile: true
 redirect_from: 
-  - /projects
+  - /Publications
 ---
 
 32-bit Out-Of-Order Tomasulo Execution Engine 
