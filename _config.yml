@@ -214,7 +214,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: DIY Projects
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -223,7 +223,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: MOOC Courses
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -232,7 +232,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Resume
+      type: portfolio
     values:
       layout: single
       author_profile: true
