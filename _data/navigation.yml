@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "DIY Projects"
-    url: /DIY Projects/   
+    url: /diyprojects/   
 
   - title: "MOOC Courses"
-    url: /mooc Courses/ 
+    url: /mooccourses/ 
 
   - title: "Resume"
     url: /Resume/
