@@ -147,3 +147,9 @@ AXI Interconnect Network and Simulate
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.
+
+DLX processor design 
+-------------------------------------------------------------------------------------------------------------
+**Abstract:** Clang based AST reformatting tool used for injecting
+instrumentation code in C/C++ programs. The goal is collecting profiles
+(run-times and execution frequencies) on C/C++ programs.
