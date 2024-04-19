@@ -126,7 +126,7 @@ redirect_from:
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), 2nd workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing 2021
 --------------------
  - Pipelining
  - Caches, coherency protocols
