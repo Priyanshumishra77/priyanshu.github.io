@@ -84,43 +84,43 @@ redirect_from:
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), 35th international conference on VLSI Design
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CPU Design using Verilog
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), Machine Learning on Hardware
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), Online Training program on VLSI SYSTEM DESIGN USING OPEN-SOURCE EDA
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), SoC Design using OpenPOWER Cores
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), SystemVerilog for verification part 2: projects
 --------------------
  - Pipelining
  - Caches, coherency protocols
  - Superscalar and VLIW
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
+[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), UVM for verification part 2: projects
 --------------------
  - Pipelining
  - Caches, coherency protocols
