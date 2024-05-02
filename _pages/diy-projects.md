@@ -8,7 +8,7 @@ redirect_from:
 ---
 
  
- MS Projects(Graduate Computer Architecture) in progress  
+ My Self Explored MS/PhD Projects(Graduate Computer Architecture) in progress  
 ------------------------------------------------------------------------------------------------------------
  32-bit Out-Of-Order Tomasulo Execution Engine 
 -------------------------------------------------------------------------------------------------------------
