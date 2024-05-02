@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "DIY Projects"
-permalink: /diy projects/
+permalink: /diyprojects/
 author_profile: true
 redirect_from: 
   - /DIY Projects
