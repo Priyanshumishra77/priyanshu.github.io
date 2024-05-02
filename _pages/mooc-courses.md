@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "MOOC Courses"
-permalink: /mooc courses/
+permalink: /mooccourses/
 author_profile: true
 redirect_from: 
-  - /mooc courses
+  - /mooccourses
 ---
 
 [Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
