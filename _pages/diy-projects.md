@@ -7,7 +7,10 @@ redirect_from:
   - /DIY Projects
 ---
 
-32-bit Out-Of-Order Tomasulo Execution Engine 
+ 
+ MS Projects(Graduate Computer Architecture) in progress  
+------------------------------------------------------------------------------------------------------------
+ 32-bit Out-Of-Order Tomasulo Execution Engine 
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
