@@ -7,7 +7,7 @@ main:
     url: /mooccourses/ 
 
   - title: "Resume"
-    url: /resume/
+    url: /cv/
     
   #- title: "Portfolio"
    # url: /portfolio/
