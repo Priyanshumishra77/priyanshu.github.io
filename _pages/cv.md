@@ -74,34 +74,27 @@ Professional experience
   * C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, NASM.
 
 
+* Company:
+  * CHIPLOGIC
+  * Verification Engineer
+  * Feb 2023 – Nov 2023
+* PROJECT DETAILS:
 
-
-
-
-
-
-
-
-
-
-
-
-Company:  CHIPLOGIC			         Verification Engineer	                      Feb 2023 – Nov 2023
-PROJECT DETAILS:
-
-Project1: RISC-V Processor Verification                                                                                      
-Description: The project involves creating a RISC-V CPU from the ground up. It comprises all previously supported and recently added extensions, and privileged and unprivileged specs.
-Roles & Responsibilities:
-Understood and wrote tests for RISC-V Organisation and Architecture, RV32bit/64bit, extensions: (IMAFDC/ZICCLSM/ZA64RS/ZIFENCE/ZICSR).
-Understood the specification (unprivileged and privileged).                                      
-Wrote the verification strategy/plan for the above variants of RISC-V.                     
-Encoding of pseudo-instructions and writing the risc-v instructions test cases, debugging and handling the traps for hint-instructions, misaligned addresses/load/store/faults/illegal trap exceptions.                                                                                                                               
-Wrote macros for different instructions.                                                                           
-Implementation of the switching modes (M, S, and U) of risc-v/various features/enabling the virtualization (sv32/39/48/57) and memory subsystems (cache, MMU, TLB, VM/PM).  
-Implementation of CSR listing.                                                                             
-Understanding the hypervisor mode.                                                                                     
-Understanding of the risc-v environment, linker script, and toolchain makefile and makefrag.
-Tools & Languages: RISC-V GNU toolchain, gdb, SPIKE, Assembly, Gitlab, Jira, Asciidoc.
+* Project: RISC-V Processor Verification                                                                                      
+* Description:
+  * The project involves creating a RISC-V CPU from the ground up. It comprises all previously supported and recently added extensions, and privileged and unprivileged specs.
+* Roles & Responsibilities:
+  * Understood and wrote tests for RISC-V Organisation and Architecture, RV32bit/64bit, extensions: (IMAFDC/ZICCLSM/ZA64RS/ZIFENCE/ZICSR).
+  * Understood the specification (unprivileged and privileged).
+  * Wrote the verification strategy/plan for the above variants of RISC-V.
+  * Encoding of pseudo-instructions and writing the risc-v instructions test cases, debugging and handling the traps for hint-instructions, misaligned addresses/load/store/faults/illegal trap exceptions.
+  * Wrote macros for different instructions.
+  * Implementation of the switching modes (M, S, and U) of risc-v/various features/enabling the virtualization (sv32/39/48/57) and memory subsystems (cache, MMU, TLB, VM/PM).
+  * Implementation of CSR listing.
+  * Understanding the hypervisor mode.
+  * Understanding of the risc-v environment, linker script, and toolchain makefile and makefrag.
+* Tools & Languages:
+  * RISC-V GNU toolchain, gdb, SPIKE, Assembly, Gitlab, Jira, Asciidoc.
 
 
 Company:  SCALEDGE			    Design Verification Engineer	                        Sep2021–Dec 2022
