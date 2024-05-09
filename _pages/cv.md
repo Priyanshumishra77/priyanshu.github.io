@@ -159,51 +159,63 @@ Professional experience
 * Tools & Languages:
   * Venus Tool, NB Flow Manager and Simregress Command, Verdi
 
-Company: VGIT                                                          Verification Trainee Engineer                     Jan 2021-Aug 2021                                                       
-PROJECT DETAILS
+* Company:
+  * VGIT
+  * Verification Trainee Engineer
+  * Jan 2021-Aug 2021                                                       
+* PROJECT DETAILS
 
-Project6: Verification of AMBA AXI.                                                                                      
-Description:
-The AMBA AXI protocol is targeted at high-performance, high-frequency system design. It has separate address/control and data phases and supports for unaligned data transfers using byte strobes, burst-based transactions with only start address issued, and support for burst lengths up to 256 beats 
-Roles & Responsibilities:
-Understanding the specifications of the block.
-Developed UVM Test bench for verification.
-Listing down features, scenarios.
-Worked on code and functional coverages.
-Verified the testcases on AWSIZE, AWBURST, AWLEN, WSTRB, WLAST.
-Tools & Languages: System Verilog, UVM, Questasim
-Project7: Verification of AMBA AHB                                                                                     
-Description: 
-AHB implements the features required for high-performance, high-clock frequency systems including burst transfers, single-clock edge operation, non-tristate implementation, wide data bus configurations 
+* Project:
+  * Verification of AMBA AXI.                                                                                      
+* Description:
+  * The AMBA AXI protocol is targeted at high-performance, high-frequency system design. It has separate address/control and data phases and supports for unaligned data transfers using byte strobes, burst-based transactions with only start address issued, and support for burst lengths up to 256 beats. 
+* Roles & Responsibilities:
+  * Understanding the specifications of the block.
+  * Developed UVM Test bench for verification.
+  * Listing down features, scenarios.
+  * Worked on code and functional coverages.
+  * Verified the testcases on AWSIZE, AWBURST, AWLEN, WSTRB, WLAST.
+* Tools & Languages:
+  * System Verilog, UVM, Questasim
+* Project:
+  * Verification of AMBA AHB                                                                                     
+* Description: 
+* AHB implements the features required for high-performance, high-clock frequency systems including burst transfers, single-clock edge operation, non-tristate implementation, wide data bus configurations.
 
-Roles & Responsibilities:
-Understanding the specifications of the block
-Test plan development
-Developed UVM components for AHB Master agent.
-Listing down features, scenarios.
-Checked all the Signals and their functionalities
-Tools & Languages: System Verilog, UVM, Questasim.
+* Roles & Responsibilities:
+  * Understanding the specifications of the block.
+  * Test plan development.
+  * Developed UVM components for AHB Master agent.
+  * Listing down features, scenarios.
+  * Checked all the Signals and their functionalities
+* Tools & Languages:
+  * System Verilog, UVM, Questasim.
 
 
-Project8: IP Level Verification of I2C                                                                                     
-Description:
-The I2C bus uses two wires: serial data (SDA) and serial clock (SCL). All I2C master and slave devices are connected with only those two wires. Each device can be a transmitter, a receiver, or both. Some devices are masters – they generate bus clocks and initiate communication on the bus, other devices are slaves and respond to the commands on the bus. To communicate with a specific device, each slave device must have an address that is unique on the bus. I2C master devices (usually microcontrollers) don’t need an address since no other (slave) device sends commands to the master. 
-Roles & Responsibilities:
-Test plan development
-Analyzing waveforms
-Coding Test bench components including reference models
-Verification closure using Functional coverage and code coverage as closing criteria.
-Debugged and test issues reported.
-Tools & Languages: System Verilog, UVM, Questasim.
+* Project:
+  * IP Level Verification of I2C                                                                                     
+* Description:
+  * The I2C bus uses two wires: serial data (SDA) and serial clock (SCL). All I2C master and slave devices are connected with only those two wires. Each device can be a transmitter, a receiver, or both. Some devices are masters – they generate bus clocks and initiate communication on the bus, other devices are slaves and respond to the commands on the bus. To communicate with a specific device, each slave device must have an address that is unique on the bus. I2C master devices (usually microcontrollers) don’t need an address since no other (slave) device sends commands to the master. 
+* Roles & Responsibilities:
+  * Test plan development.
+  * Analyzing waveforms.
+  * Coding Test bench components including reference models.
+  * Verification closure using Functional coverage and code coverage as closing criteria.
+  * Debugged and test issues reported.
+* Tools & Languages:
+  * System Verilog, UVM, Questasim.
 
-Project9: Design and Verification of SPI Controller using System Verilog
-Description: SPI Controller is a design block that acts as an interface between processor and SPI slave. SPI architecture is based on one master and multiple slaves. This controller has 2 interfaces, one is APB interface use for configuring the SPI registers, address, and data, other is SPI interface used for connecting with SPI slaves. SPI uses SCLK, MOSI, MISO, and CS to connect master to slave.
-Roles & Responsibilities:
-Developing SPI Controller RTL code and verify the same using System Verilog
-Listing down design features
-Setting up testbench and testbench component coding
-Test plan development and testcase coding
-Tools & Languages: Mentor QuestaSIM, System Verilog
+* Project:
+  * Design and Verification of SPI Controller using System Verilog
+* Description:
+  * SPI Controller is a design block that acts as an interface between processor and SPI slave. SPI architecture is based on one master and multiple slaves. This controller has 2 interfaces, one is APB interface use for configuring the SPI registers, address, and data, other is SPI interface used for connecting with SPI slaves. SPI uses SCLK, MOSI, MISO, and CS to connect master to slave.
+* Roles & Responsibilities:
+  * Developing SPI Controller RTL code and verify the same using System Verilog.
+  * Listing down design features.
+  * Setting up testbench and testbench component coding.
+  * Test plan development and testcase coding
+* Tools & Languages:
+  * Mentor QuestaSIM, System Verilog
 
 
 * Company:
