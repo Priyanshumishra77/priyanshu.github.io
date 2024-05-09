@@ -100,15 +100,21 @@ Machine Learning on Hardware
 
 Online Training program on VLSI SYSTEM DESIGN USING OPEN-SOURCE EDA
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - Intro to Raven chip, risc-architecture
+ - EDA Tools
+ - Ngspice –> General purpose circuit simulation program for non-linear and linear 
+   analyses.
+ - Magic –> VLSI Layout editor, extraction and DRC tool.
+ - Opentimer –> Open-source high performance timing analysis tool.
+ - eSim –> Complex Circuit design, SPICE simulation, analysis and PCB design.
+ - Qflow –> Tool chain (like Yosys, Graywolf) for complete RTL2GDS flow.
 
 SoC Design using OpenPOWER Cores
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - IBM OpenPower processsor
+ - From RTL to GDSII using OpenLane(Microwatt, Litex SoC, MicroPython)
+ - Simulation with FPGA
+ - Design and development of a SoC
 
 SystemVerilog for verification part 2: projects
 --------------------
