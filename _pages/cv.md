@@ -79,27 +79,10 @@ Education
 
 Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
- 
-*Company:  SISOC SEMICONDUCTOR		Verification Engineer	           Feb 2024 – Present
-*PROJECT DETAILS:
-
-*Project: RISC-V Processor Design and Verification; & exploring x86                                                                                   
-*Description: 
-  *Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
+* Company:  SISOC SEMICONDUCTOR		Verification Engineer	           Feb 2024 – Present
+  * PROJECT DETAILS:
+  * Project: RISC-V Processor Design and Verification; & exploring x86
+  * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
 Roles & Responsibilities:
 Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
 Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
@@ -107,7 +90,13 @@ Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assemb
 Understood and guided the team to design various RISC-V Core(DLX, Mor1kx, & CLARVI).
 Gave an overview of UVM for RISC-V CPU Verification.
 Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool.
-Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).                     
+Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
+ 
+*
+
+*Project:                                                                                    
+*Description: 
+                       
 Tools & Languages: C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, NASM.
 
 
