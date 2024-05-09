@@ -97,55 +97,67 @@ Professional experience
   * RISC-V GNU toolchain, gdb, SPIKE, Assembly, Gitlab, Jira, Asciidoc.
 
 
-Company:  SCALEDGE			    Design Verification Engineer	                        Sep2021–Dec 2022
-PROJECT DETAILS
+* Company:
+  * SCALEDGE
+  * Design Verification Engineer
+  * Sep2021–Dec 2022
+* PROJECT DETAILS
 
-Project: RISC-V Processor Verification                                                                                      
-Description: The project involves the understanding risc-v processor(instructions/R-I type, S-type/golden reference model etc.) and micro-architectural aspects of a computer architecture
-Roles & Responsibilities:
-RISC-V architecture expertise (RV32/64IMAFDC)
-Study of Pipeline, Cache and computer architecture
-Studied about Pipelining and Hazards, Cache, and Cache coherence
-Working on writing RISC-V assembly level tests targeting various architecture/microarchitecture features 
-Working on test plan, test bench development, and coverage analysis for processor verification
-Wrote testcases for ALU and load, store instructions
-Using of random generators and reference models for verification
-Wrote testcases for various Register-Immediate Integer type Instruction’s like, ADDI, SLTI, SLTIU, XORI, ORI, ANDI, SLLI, SRLI, SRAI.
-Tools & Language: Spike, GNU toolchain, Git, assembly, SystemVerilog
+* Project:
+  * RISC-V Processor Verification                                                                                      
+* Description:
+  * The project involves the understanding risc-v processor(instructions/R-I type, S-type/golden reference model etc.) and micro-architectural aspects of a computer architecture.
+* Roles & Responsibilities:
+  * RISC-V architecture expertise (RV32/64IMAFDC).
+  * Study of Pipeline, Cache and computer architecture.
+  * Studied about Pipelining and Hazards, Cache, and Cache coherence.
+  * Worked on writing RISC-V assembly level tests targeting various architecture/microarchitecture features.
+  * Working on test plan, test bench development, and coverage analysis for processor verification.
+  * Wrote testcases for ALU and load, store instructions using of random generators and reference models for verification.
+  * Wrote testcases for various Register-Immediate Integer type Instruction’s like, ADDI, SLTI, SLTIU, XORI, ORI, ANDI, SLLI, SRLI, SRAI.
+* Tools & Language:
+  * Spike, GNU toolchain, Git, assembly, SystemVerilog
 
-Project: RISCV core verification using Google Random Instruction Generator                                                            
-Description: This project involves the understanding of Google/RISCV-dv SV/UVM based Random Instruction Generator.
-Roles & Responsibilities:
-Understanding the existing SV/UVM generator flow
-Studying RISC-V and ISA specification
-Generating and running different assembly tests
-Tools & Languages: System Verilog, Git and YAML, GCC compiler, SPIKE and OVPSim
+* Project:
+  * RISCV core verification using Google Random Instruction Generator                                                            
+* Description:
+  * This project involves the understanding of Google/RISCV-dv SV/UVM based Random Instruction Generator.
+* Roles & Responsibilities:
+  * Understanding the existing SV/UVM generator flow.
+  * Studying RISC-V and ISA specification.
+  * Generating and running different assembly tests
+* Tools & Languages:
+  * System Verilog, Git and YAML, GCC compiler, SPIKE and OVPSim
+
+* Project:
+  * CVA6 (Ariane core) Verification                                                                                                                                       * Description:
+  * This project involves the study and verification of micro-architectural details of a RISCV processor (CVA6 core).
+* Roles & Responsibilities:
+  * Understanding the CVA6 architecture and microarchitecture.
+  * Compiling and running assembly tests on CVA6 using Synopsys VCS.
+  * Used Google RISCV-DV random instruction generator to generate random assembly tests and Spike for the simulation of these random tests.
+* Tools & Languages:
+  * System Verilog and Synopsys VCS
 
 
+* Client:
+  * Intel
+  * ASIC Verification Engineer
+  * Jun 2022 - Oct 2022                                                       
+* PROJECT DETAILS: 
 
-
-
-Project: CVA6 (Ariane core) Verification                                                                                                                                                 
-Description: This project involves the study and verification of micro-architectural details of a RISCV processor (CVA6 core).
-Roles & Responsibilities:
-Understanding the CVA6 architecture and microarchitecture.
-Compiling and running assembly tests on CVA6 using Synopsys VCS.
-Used Google RISCV-DV random instruction generator to generate random assembly tests and Spike for the simulation of these random tests.
-Tools & Languages: System Verilog and Synopsys VCS
-
-
-Client: Intel                                                           ASIC Verification Engineer                         Jun 2022 - Oct 2022                                                       
-PROJECT DETAILS: 
-
-Project5: RPLS regression and GNR FE DV                              
-Description: RPLS regression and GNRIO DFD FE DV.
-Roles & Responsibilities:
-Failure monitoring and creating sheets for error signatures, triage, and bucketization.
-GNRIO running testcases and compare between different versions.
-Explored different hierarchy blocks and environment.
-Assertion failure debug.
-Study of IP’s
-Tools & Languages: Venus Tool, NB Flow Manager and Simregress Command, Verdi
+* Project:
+  * RPLS regression and GNR FE DV                              
+* Description:
+  * RPLS regression and GNRIO DFD FE DV.
+* Roles & Responsibilities:
+  * Failure monitoring and creating sheets for error signatures, triage, and bucketization.
+  * GNRIO running testcases and compare between different versions.
+  * Explored different hierarchy blocks and environment.
+  * Assertion failure debug.
+  * Study of IP’s
+* Tools & Languages:
+  * Venus Tool, NB Flow Manager and Simregress Command, Verdi
 
 Company: VGIT                                                          Verification Trainee Engineer                     Jan 2021-Aug 2021                                                       
 PROJECT DETAILS
