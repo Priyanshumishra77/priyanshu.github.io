@@ -13,7 +13,7 @@ redirect_from:
 
 PRIYANSHU
 ===
-priyanshud141@gmail.com
+mpriyanshu236@gmail.com
 https://priyanshumishra77.github.io/priyanshu.github.io/
 https://www.linkedin.com/in/priyanshu-mishra-68837511b/
 ===
