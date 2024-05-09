@@ -100,7 +100,7 @@ Professional experience
 Company:  SCALEDGE			    Design Verification Engineer	                        Sep2021–Dec 2022
 PROJECT DETAILS
 
-Project2: RISC-V Processor Verification                                                                                      
+Project: RISC-V Processor Verification                                                                                      
 Description: The project involves the understanding risc-v processor(instructions/R-I type, S-type/golden reference model etc.) and micro-architectural aspects of a computer architecture
 Roles & Responsibilities:
 RISC-V architecture expertise (RV32/64IMAFDC)
@@ -113,7 +113,7 @@ Using of random generators and reference models for verification
 Wrote testcases for various Register-Immediate Integer type Instruction’s like, ADDI, SLTI, SLTIU, XORI, ORI, ANDI, SLLI, SRLI, SRAI.
 Tools & Language: Spike, GNU toolchain, Git, assembly, SystemVerilog
 
-Project3: RISCV core verification using Google Random Instruction Generator                                                            
+Project: RISCV core verification using Google Random Instruction Generator                                                            
 Description: This project involves the understanding of Google/RISCV-dv SV/UVM based Random Instruction Generator.
 Roles & Responsibilities:
 Understanding the existing SV/UVM generator flow
@@ -125,7 +125,7 @@ Tools & Languages: System Verilog, Git and YAML, GCC compiler, SPIKE and OVPSim
 
 
 
-Project4: CVA6 (Ariane core) Verification                                                                                                                                                 
+Project: CVA6 (Ariane core) Verification                                                                                                                                                 
 Description: This project involves the study and verification of micro-architectural details of a RISCV processor (CVA6 core).
 Roles & Responsibilities:
 Understanding the CVA6 architecture and microarchitecture.
@@ -222,25 +222,3 @@ Technical Skills
   * Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado 	
 * Operating System
   * Linux, Windows
-
-# Publications
-======
- # <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Talks
-======
-#  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-# Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Service and leadership
-======
-# * Currently signed in to 43 different slack teams
