@@ -103,8 +103,7 @@ Professional experience
   * Sep2021–Dec 2022
 * PROJECT DETAILS
 
-* Project:
-  * RISC-V Processor Verification                                                                                      
+* Project: RISC-V Processor Verification                                                                                      
 * Description:
   * The project involves the understanding risc-v processor(instructions/R-I type, S-type/golden reference model etc.) and micro-architectural aspects of a computer architecture.
 * Roles & Responsibilities:
@@ -118,8 +117,7 @@ Professional experience
 * Tools & Language:
   * Spike, GNU toolchain, Git, assembly, SystemVerilog
 
-* Project:
-  * RISCV core verification using Google Random Instruction Generator                                                            
+* Project: RISCV core verification using Google Random Instruction Generator                                                            
 * Description:
   * This project involves the understanding of Google/RISCV-dv SV/UVM based Random Instruction Generator.
 * Roles & Responsibilities:
@@ -129,8 +127,7 @@ Professional experience
 * Tools & Languages:
   * System Verilog, Git and YAML, GCC compiler, SPIKE and OVPSim
 
-* Project:
-  * CVA6 (Ariane core) Verification                                                                                                                                       * Description:
+* Project: CVA6 (Ariane core) Verification                                                                                                                                * Description:
   * This project involves the study and verification of micro-architectural details of a RISCV processor (CVA6 core).
 * Roles & Responsibilities:
   * Understanding the CVA6 architecture and microarchitecture.
@@ -146,8 +143,7 @@ Professional experience
   * Jun 2022 - Oct 2022                                                       
 * PROJECT DETAILS: 
 
-* Project:
-  * RPLS regression and GNR FE DV                              
+* Project: RPLS regression and GNR FE DV                              
 * Description:
   * RPLS regression and GNRIO DFD FE DV.
 * Roles & Responsibilities:
@@ -165,8 +161,7 @@ Professional experience
   * Jan 2021-Aug 2021                                                       
 * PROJECT DETAILS
 
-* Project:
-  * Verification of AMBA AXI.                                                                                      
+* Project: Verification of AMBA AXI.                                                                                      
 * Description:
   * The AMBA AXI protocol is targeted at high-performance, high-frequency system design. It has separate address/control and data phases and supports for unaligned data transfers using byte strobes, burst-based transactions with only start address issued, and support for burst lengths up to 256 beats. 
 * Roles & Responsibilities:
@@ -177,8 +172,7 @@ Professional experience
   * Verified the testcases on AWSIZE, AWBURST, AWLEN, WSTRB, WLAST.
 * Tools & Languages:
   * System Verilog, UVM, Questasim
-* Project:
-  * Verification of AMBA AHB                                                                                     
+* Project: Verification of AMBA AHB                                                                                     
 * Description: 
 * AHB implements the features required for high-performance, high-clock frequency systems including burst transfers, single-clock edge operation, non-tristate implementation, wide data bus configurations.
 
@@ -192,8 +186,7 @@ Professional experience
   * System Verilog, UVM, Questasim.
 
 
-* Project:
-  * IP Level Verification of I2C                                                                                     
+* Project: IP Level Verification of I2C                                                                                     
 * Description:
   * The I2C bus uses two wires: serial data (SDA) and serial clock (SCL). All I2C master and slave devices are connected with only those two wires. Each device can be a transmitter, a receiver, or both. Some devices are masters – they generate bus clocks and initiate communication on the bus, other devices are slaves and respond to the commands on the bus. To communicate with a specific device, each slave device must have an address that is unique on the bus. I2C master devices (usually microcontrollers) don’t need an address since no other (slave) device sends commands to the master. 
 * Roles & Responsibilities:
@@ -205,8 +198,7 @@ Professional experience
 * Tools & Languages:
   * System Verilog, UVM, Questasim.
 
-* Project:
-  * Design and Verification of SPI Controller using System Verilog
+* Project: Design and Verification of SPI Controller using System Verilog
 * Description:
   * SPI Controller is a design block that acts as an interface between processor and SPI slave. SPI architecture is based on one master and multiple slaves. This controller has 2 interfaces, one is APB interface use for configuring the SPI registers, address, and data, other is SPI interface used for connecting with SPI slaves. SPI uses SCLK, MOSI, MISO, and CS to connect master to slave.
 * Roles & Responsibilities:
@@ -224,8 +216,7 @@ Professional experience
   * Jan 2020 – Dec 2020
 * PROJECT DETAILS
 
-* Project:
-  * Development of a Warehouse logistics of an autonomous vehicle.
+* Project: Development of a Warehouse logistics of an autonomous vehicle.
 * Description:
   * This vehicle replaces the traditional fork/lift trucks to handle pallets in rack areas.
 * Roles & Responsibilities:
