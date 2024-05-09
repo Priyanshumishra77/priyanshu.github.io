@@ -54,8 +54,11 @@ Education
 
 Professional experience
 ======
-* Company:  SISOC SEMICONDUCTOR		Verification Engineer	           Feb 2024 – Present
-  * PROJECT DETAILS:
+* Company:
+  * SISOC SEMICONDUCTOR
+  * Verification Engineer
+  * Feb 2024 – Present
+* PROJECT DETAILS:
   * Project: RISC-V Processor Design and Verification; & exploring x86
   * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
 * Roles & Responsibilities:
@@ -67,12 +70,8 @@ Professional experience
   * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool.
   * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
  
-*
-
-*Project:                                                                                    
-*Description: 
-                       
-Tools & Languages: C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, NASM.
+* Tools & Languages:
+  * C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, NASM.
 
 
 
