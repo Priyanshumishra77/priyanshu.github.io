@@ -236,19 +236,20 @@ Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
 Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-* Protocol Knowledge: Serial(I2C, SPI, USB), AMBA(APB, AHB & AXI) protocol, basic of 
-  TileLink
-HDVL: 	Verilog, System Verilog
-Programming Languages: 	C, Python, assembly
-Methodology: 	UVM
-Tools: 	Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado
-Operating System: 	Linux, Windows
+* Protocol Knowledge
+  * Serial(I2C, SPI,UART, USB)
+  * AMBA(APB, AHB & AXI) protocol
+  * basic of TileLink, wishbone memory
+* HDVL
+  * Verilog, SystemVerilog
+* Programming language
+  * C/C++, Python X86/RISC-Assembly
+* Methodology
+  * UVM, Go-UVM
+* Tools
+  * Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado 	
+* Operating System
+  * Linux, Windows
 
 # Publications
 ======
