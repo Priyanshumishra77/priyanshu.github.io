@@ -18,17 +18,7 @@ https://www.linkedin.com/in/priyanshu-mishra-68837511b/
 contact: +91-9039391582
 
 PROFESSIONAL SUMMARY
-3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
-Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
-Functional verification of Serial Protocol: I2C, SPI & USB
-Good understanding of Processor architecture, micro-architecture, and digital design, RISC-V ISA 
-Good understanding of C, Python, RISC Assembly, Verilog & System Verilog.
-Knowledge of various simulation tools for Computer Architecture and VLSI.
-Experience in building a Verification Environment from scratch using System Verilog and methodologies like UVM.
-Proficient in writing test cases, simulation, and debugging.
-Hands-on expertise of working on Test Plan and test bench development in UVM environment.
-Good understanding of ASIC Design Flow/SoC and Design Verification Techniques.
-Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and Neuromorphic computing.
+
 
 PROFESSIONAL EXPERIENCE
 
@@ -217,15 +207,28 @@ Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Co
 Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
 Attended the 35th international conference on VLSI Design by VLSI Society India
 
-EDUCATION 
-B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India. 
 
+Professional Summary
+======
+* 3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
+* Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
+* Functional verification of Serial Protocol: I2C, SPI & USB
+* Good understanding of Processor architecture, micro-architecture, and digital 
+  design, RISC-V ISA.
+* Good understanding of C, Python, RISC Assembly, Verilog & System Verilog.
+* Knowledge of various simulation tools for Computer Architecture and VLSI.
+* Experience in building a Verification Environment from scratch using System 
+  Verilog and methodologies like UVM.
+* Proficient in writing test cases, simulation, and debugging.
+* Hands-on expertise of working on Test Plan and test bench development in UVM 
+  environment.
+* Good understanding of ASIC Design Flow/SoC and Design Verification Techniques.
+* Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
+  Neuromorphic computing.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
 
 Work experience
 ======
