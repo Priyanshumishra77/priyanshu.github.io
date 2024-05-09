@@ -112,26 +112,22 @@ SoC Design using OpenPOWER Cores
 
 SystemVerilog for verification part 2: projects
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - D-FF, FIFO
+ - I2C, SPI, & UART
+ - APB, AHB, & AXI
+ - Wishbone
 
 UVM for verification part 2: projects
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - D-FF
+ - UART, I2C, SPI
+ - APB, AXI and demonstration of virtual sequencer and sequence library
+ - TLM Analysis FIFO
 
 2nd workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing 2021
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
-
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
---------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - RISC-V for HPC
+ - OCP
+ - BAMBOO
 
    
