@@ -88,9 +88,9 @@ Workshop in PCB Designing and Robotics
 
 CPU Design using Verilog
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - Single-cycle, multi-cycle and Pipelined processor
+ - Multithreaded and Multi-core processor
+ - Pipelined CPU with FPU
 
 Machine Learning on Hardware
 --------------------
