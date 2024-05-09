@@ -206,17 +206,22 @@ Test plan development and testcase coding
 Tools & Languages: Mentor QuestaSIM, System Verilog
 
 
-Company:  Sakthi CADD Startup                    Embedded Hardware Design Engineer             Jan 2020 – Dec 2020
-PROJECT DETAILS
+* Company:
+  * Sakthi CADD Startup
+  * Embedded Hardware Design Engineer
+  * Jan 2020 – Dec 2020
+* PROJECT DETAILS
 
-Project10: Development of a Warehouse logistics of an autonomous vehicle                         Jan 2020 – Dec 2020  
-Description: This vehicle replaces the traditional fork/lift trucks to handle pallets in rack areas
-Roles & Responsibilities:
-Read the datasheet
-Designed and developed BMS IC
-Develop battery pack
-Prepared schematics, layout and BOM.
-Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
+* Project:
+  * Development of a Warehouse logistics of an autonomous vehicle.
+* Description:
+  * This vehicle replaces the traditional fork/lift trucks to handle pallets in rack areas.
+* Roles & Responsibilities:
+  * Read the datasheet.
+  * Designed and developed BMS IC.
+  * Develop battery pack.
+  * Prepared schematics, layout and BOM.
+* Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
 Technical Skills
 ======
