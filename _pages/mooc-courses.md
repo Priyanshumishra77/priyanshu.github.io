@@ -70,21 +70,18 @@ Embedded systems and VLSI Design
 
 8051 Embedded Systems Workshop
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - Keil-Arm MCU
+ - 8051 concepts and programming
 
 Workshop in PCB Designing and Robotics
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - PCB design steps and creation
+ - Drone design
 
 35th international conference on VLSI Design
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - Conference on VLSI Design
+ - past, present and Future in VLSI Space
 
 CPU Design using Verilog
 --------------------
