@@ -23,11 +23,83 @@ PROFESSIONAL SUMMARY
 PROFESSIONAL EXPERIENCE
 
 
-Company:  SISOC SEMICONDUCTOR		Verification Engineer	                      Feb 2024 – Present
-PROJECT DETAILS:
+ 
 
-Project: RISC-V Processor Design and Verification; & exploring x86                                                                                   
-Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
+
+
+
+
+
+
+
+TECHNICAL SKILLS 
+Protocol Knowledge: 	Serial(I2C, SPI, USB), AMBA(APB, AHB & AXI) protocol, basic of TileLink
+HDVL: 	Verilog, System Verilog
+Programming Languages: 	C, Python, assembly
+Methodology: 	UVM
+Tools: 	Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado
+Operating System: 	Linux, Windows
+
+
+
+ACHIEVEMENTS & AWARDS 
+Certification in Computer Architecture by Saylor Academy
+Workshop on CPU Design using Verilog by NIT TRICHY 
+Course on Hardware Modeling using Verilog by NPTEL
+Course on GPU programming by Vishal Vinod(IIT Madras), Hardware for Deep learning by Adi Teman(Bar-IIan university, Israel), and Neuromorphic computing by Shubham Sahay(IIT Kanpur).
+Workshop on Machine Learning on Hardware by NIT TRICHY.
+Workshop in Embedded Systems and VLSI Design by IIT Kanpur
+Certification in FPGA Computing System by Coursera
+Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing, 2021
+Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
+Attended the 35th international conference on VLSI Design by VLSI Society India
+
+
+Professional Summary
+======
+* 3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
+* Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
+* Functional verification of Serial Protocol: I2C, SPI & USB
+* Good understanding of Processor architecture, micro-architecture, and digital 
+  design, RISC-V ISA.
+* Good understanding of C, Python, RISC Assembly, Verilog & System Verilog.
+* Knowledge of various simulation tools for Computer Architecture and VLSI.
+* Experience in building a Verification Environment from scratch using System 
+  Verilog and methodologies like UVM.
+* Proficient in writing test cases, simulation, and debugging.
+* Hands-on expertise of working on Test Plan and test bench development in UVM 
+  environment.
+* Good understanding of ASIC Design Flow/SoC and Design Verification Techniques.
+* Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
+  Neuromorphic computing.
+
+Education
+======
+* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
+
+Professional experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+ 
+*Company:  SISOC SEMICONDUCTOR		Verification Engineer	           Feb 2024 – Present
+*PROJECT DETAILS:
+
+*Project: RISC-V Processor Design and Verification; & exploring x86                                                                                   
+*Description: 
+  *Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
 Roles & Responsibilities:
 Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
 Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
@@ -176,76 +248,7 @@ Read the datasheet
 Designed and developed BMS IC
 Develop battery pack
 Prepared schematics, layout and BOM.
-Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert 
-
-
-
-
-
-
-
-
-TECHNICAL SKILLS 
-Protocol Knowledge: 	Serial(I2C, SPI, USB), AMBA(APB, AHB & AXI) protocol, basic of TileLink
-HDVL: 	Verilog, System Verilog
-Programming Languages: 	C, Python, assembly
-Methodology: 	UVM
-Tools: 	Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado
-Operating System: 	Linux, Windows
-
-
-
-ACHIEVEMENTS & AWARDS 
-Certification in Computer Architecture by Saylor Academy
-Workshop on CPU Design using Verilog by NIT TRICHY 
-Course on Hardware Modeling using Verilog by NPTEL
-Course on GPU programming by Vishal Vinod(IIT Madras), Hardware for Deep learning by Adi Teman(Bar-IIan university, Israel), and Neuromorphic computing by Shubham Sahay(IIT Kanpur).
-Workshop on Machine Learning on Hardware by NIT TRICHY.
-Workshop in Embedded Systems and VLSI Design by IIT Kanpur
-Certification in FPGA Computing System by Coursera
-Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing, 2021
-Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
-Attended the 35th international conference on VLSI Design by VLSI Society India
-
-
-Professional Summary
-======
-* 3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
-* Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
-* Functional verification of Serial Protocol: I2C, SPI & USB
-* Good understanding of Processor architecture, micro-architecture, and digital 
-  design, RISC-V ISA.
-* Good understanding of C, Python, RISC Assembly, Verilog & System Verilog.
-* Knowledge of various simulation tools for Computer Architecture and VLSI.
-* Experience in building a Verification Environment from scratch using System 
-  Verilog and methodologies like UVM.
-* Proficient in writing test cases, simulation, and debugging.
-* Hands-on expertise of working on Test Plan and test bench development in UVM 
-  environment.
-* Good understanding of ASIC Design Flow/SoC and Design Verification Techniques.
-* Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
-  Neuromorphic computing.
-
-Education
-======
-* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
 Skills
 ======
