@@ -94,9 +94,10 @@ CPU Design using Verilog
 
 Machine Learning on Hardware
 --------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+ - Verilog
+ - Neural Networks for Gates, Muxes and RAM
+ - Google colab
+ - Quartus Prime and ModelSim
 
 Online Training program on VLSI SYSTEM DESIGN USING OPEN-SOURCE EDA
 --------------------
