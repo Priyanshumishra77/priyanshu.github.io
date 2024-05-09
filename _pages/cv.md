@@ -33,12 +33,7 @@ PROFESSIONAL EXPERIENCE
 
 
 TECHNICAL SKILLS 
-Protocol Knowledge: 	Serial(I2C, SPI, USB), AMBA(APB, AHB & AXI) protocol, basic of TileLink
-HDVL: 	Verilog, System Verilog
-Programming Languages: 	C, Python, assembly
-Methodology: 	UVM
-Tools: 	Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado
-Operating System: 	Linux, Windows
+
 
 
 
@@ -239,7 +234,7 @@ Develop battery pack
 Prepared schematics, layout and BOM.
 Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
-Skills
+Technical Skills
 ======
 * Skill 1
 * Skill 2
@@ -247,6 +242,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+* Protocol Knowledge: Serial(I2C, SPI, USB), AMBA(APB, AHB & AXI) protocol, basic of 
+  TileLink
+HDVL: 	Verilog, System Verilog
+Programming Languages: 	C, Python, assembly
+Methodology: 	UVM
+Tools: 	Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado
+Operating System: 	Linux, Windows
 
 # Publications
 ======
