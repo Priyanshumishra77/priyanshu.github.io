@@ -37,23 +37,6 @@ Professional Summary
 * Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
   Neuromorphic computing.
 
-Achievement and awards
-======
-* Certification in Computer Architecture by Saylor Academy.
-* Workshop on CPU Design using Verilog by NIT TRICHY.
-* Course on Hardware Modeling using Verilog by NPTEL.
-* Course on GPU programming by Vishal Vinod(IIT Madras), Hardware for Deep learning by Adi Teman(Bar-IIan university, Israel), and Neuromorphic computing by Shubham Sahay(IIT Kanpur).
-* Workshop on Machine Learning on Hardware by NIT TRICHY.
-* Workshop in Embedded Systems and VLSI Design by IIT Kanpur.
-* Certification in FPGA Computing System by Coursera.
-* Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing, 2021.
-* Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
-* Attended the 35th international conference on VLSI Design by VLSI Society India
-  
-Education
-======
-* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
-
 Professional experience
 ======
 * Company:
@@ -228,6 +211,20 @@ Professional experience
   * Prepared schematics, layout and BOM.
 * Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
+
+Achievement and awards
+======
+* Certification in Computer Architecture by Saylor Academy.
+* Workshop on CPU Design using Verilog by NIT TRICHY.
+* Course on Hardware Modeling using Verilog by NPTEL.
+* Course on GPU programming by Vishal Vinod(IIT Madras), Hardware for Deep learning by Adi Teman(Bar-IIan university, Israel), and Neuromorphic computing by Shubham Sahay(IIT Kanpur).
+* Workshop on Machine Learning on Hardware by NIT TRICHY.
+* Workshop in Embedded Systems and VLSI Design by IIT Kanpur.
+* Certification in FPGA Computing System by Coursera.
+* Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing, 2021.
+* Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
+* Attended the 35th international conference on VLSI Design by VLSI Society India
+  
 Technical Skills
 ======
 * Protocol Knowledge
@@ -244,3 +241,7 @@ Technical Skills
   * Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado 	
 * Operating System
   * Linux, Windows
+
+Education
+======
+* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
