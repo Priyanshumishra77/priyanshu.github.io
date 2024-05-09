@@ -17,30 +17,6 @@ https://priyanshumishra77.github.io/priyanshu.github.io/
 https://www.linkedin.com/in/priyanshu-mishra-68837511b/
 contact: +91-9039391582
 
-PROFESSIONAL SUMMARY
-
-
-PROFESSIONAL EXPERIENCE
-
-
- 
-
-
-
-
-
-
-
-
-TECHNICAL SKILLS 
-
-
-
-
-ACHIEVEMENTS & AWARDS 
-
-
-
 Professional Summary
 ======
 * 3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
@@ -82,14 +58,14 @@ Professional experience
   * PROJECT DETAILS:
   * Project: RISC-V Processor Design and Verification; & exploring x86
   * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
-Roles & Responsibilities:
-Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
-Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
-Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
-Understood and guided the team to design various RISC-V Core(DLX, Mor1kx, & CLARVI).
-Gave an overview of UVM for RISC-V CPU Verification.
-Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool.
-Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
+* Roles & Responsibilities:
+  * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
+  * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
+  * Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
+  * Understood and guided the team to design various RISC-V Core(DLX, Mor1kx, & CLARVI).
+  * Gave an overview of UVM for RISC-V CPU Verification.
+  * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool.
+  * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
  
 *
 
