@@ -13,8 +13,9 @@ I am a full-time Verification Engineer at SiSoC Semiconductor Technologies, work
 Research Interests
 ------------------
  - Advanced Computer Architecture and Organization
- - Processor Micro-architecture
+ - Processor Micro-architecture Design Verification
  - Energy Efficient Computing
+ - Generative AI for Hardware Design and Verification
  - AI hardware accelerators
  - Y86-64/RISC-V CPU/SoC Design and Verification(Digital VLSI)
  - CPU/GPU/TPU/NPU/APU/XPU/HPC
