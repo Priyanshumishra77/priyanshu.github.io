@@ -17,6 +17,7 @@ Research Interests
  - Energy Efficient Computing
  - Generative AI for Hardware Design and Verification
  - AI hardware accelerators
+ - Human-Computer Interaction(HCI)
  - Y86-64/RISC-V CPU/SoC Design and Verification(Digital VLSI)
  - CPU/GPU/TPU/NPU/APU/XPU/HPC
 
