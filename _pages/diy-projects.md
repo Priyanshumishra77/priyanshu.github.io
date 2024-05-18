@@ -12,7 +12,7 @@ redirect_from:
 ------------------------------------------------------------------------------------------------------------
 
 
- Self taught MS EECS Courses(UC Berkeley, MIT, USC, and CMU)
+ Self taught MS EECS Courses(UC Berkeley, MIT, USC, CMU, GeorgiaTech, & Stanford)
 ------------------------------------------------------------------------------------------------------------
 - CS 61C: Great Ideas of Computer Architecture(Machine Structures)
 - CS 152: Computer Architecture & Engineering
