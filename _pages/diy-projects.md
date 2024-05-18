@@ -19,7 +19,7 @@ redirect_from:
 - CS 252: Graduate Computer Architecture(UC Berkeley)
 - CS 250: VLSI System Design(UC Berkeley)
 - EE599:  Verification of VLSI Systems(USC)
-- Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)(CMU)
+- 18-600: Foundations of computer Systems, (CS:APP3e book) (CMU)
 - ECE 8893B: Hardware Acceleration for Machine Learning(Georgia Institute Of Technology)
 - CS 217: Hardware Accelerators for Machine Learning(Stanford)
 
