@@ -8,7 +8,7 @@ redirect_from:
 ---
 
  
- My Self Explored MS/PhD courses & Projects(Computer Architecture and Organization, VLSI Design, ) in progress  
+ My Self Explored MS/PhD courses & Projects(Computer Architecture and Organization, VLSI Design, Verification) in progress  
 ------------------------------------------------------------------------------------------------------------
 
 
@@ -22,6 +22,8 @@ CS 152 - Computer Architecture & Engineering
 CS 252 - Graduate Computer Architecture
 -------------------------------------------------------------------------------------------------------------
 CS 250 - VLSI System Design
+-------------------------------------------------------------------------------------------------------------
+EE599 – Verification of VLSI Systems
 -------------------------------------------------------------------------------------------------------------
 Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
 -------------------------------------------------------------------------------------------------------------
