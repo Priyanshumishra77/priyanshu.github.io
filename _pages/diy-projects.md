@@ -8,22 +8,27 @@ redirect_from:
 ---
 
  
- My Self Explored MS/PhD courses & Projects(Graduate Computer Architecture) in progress  
+ My Self Explored MS/PhD courses & Projects(Computer Architecture and Organization, VLSI Design, ) in progress  
 ------------------------------------------------------------------------------------------------------------
 
 
  Self taught MS EECS Courses(UC Berkeley, MIT, USC, and CMU)
 ------------------------------------------------------------------------------------------------------------
-CS 61C - Great Ideas of Computer Architecture(Machine Structure)
-CS 152 - Computer Architecture & Engineering
-CS 250 - VLSI System Design
-CS 252 - Graduate Computer Architecture)
-Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
- 
- Related Projects(in progress)
-------------------------------------------------------------------------------------------------------------
 
- 32-bit Out-Of-Order Tomasulo Execution Engine 
+CS 61C - Great Ideas of Computer Architecture(Machine Structure)
+-------------------------------------------------------------------------------------------------------------
+CS 152 - Computer Architecture & Engineering
+-------------------------------------------------------------------------------------------------------------
+CS 252 - Graduate Computer Architecture
+-------------------------------------------------------------------------------------------------------------
+CS 250 - VLSI System Design
+-------------------------------------------------------------------------------------------------------------
+Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
+-------------------------------------------------------------------------------------------------------------
+
+Related Projects(in progress)
+------------------------------------------------------------------------------------------------------------
+32-bit Out-Of-Order Tomasulo Execution Engine 
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Type here  
 
