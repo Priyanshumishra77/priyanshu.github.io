@@ -14,14 +14,15 @@ redirect_from:
 
  Self taught MS EECS Courses(UC Berkeley, MIT, USC, CMU, GeorgiaTech, & Stanford)
 ------------------------------------------------------------------------------------------------------------
-- CS 61C: Great Ideas of Computer Architecture(Machine Structures)
-- CS 152: Computer Architecture & Engineering
-- CS 252: Graduate Computer Architecture
-- CS 250: VLSI System Design
-- EE599:  Verification of VLSI Systems
-- Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
-- ECE 8893B: Hardware Acceleration for Machine Learning
-- CS 217n: 
+- CS 61C: Great Ideas of Computer Architecture(Machine Structures)(UC Berkeley)
+- CS 152: Computer Architecture & Engineering(UC Berkeley)
+- CS 252: Graduate Computer Architecture(UC Berkeley)
+- CS 250: VLSI System Design(UC Berkeley)
+- EE599:  Verification of VLSI Systems(USC)
+- Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)(CMU)
+- ECE 8893B: Hardware Acceleration for Machine Learning(Georgia Institute Of Technology)
+- CS 217: Hardware Accelerators for Machine Learning(Stanford)
+
 Related Projects(in progress)
 ------------------------------------------------------------------------------------------------------------
 32-bit Out-Of-Order Tomasulo Execution Engine 
