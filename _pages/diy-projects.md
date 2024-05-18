@@ -14,19 +14,12 @@ redirect_from:
 
  Self taught MS EECS Courses(UC Berkeley, MIT, USC, and CMU)
 ------------------------------------------------------------------------------------------------------------
-
-CS 61C - Great Ideas of Computer Architecture(Machine Structure)
--------------------------------------------------------------------------------------------------------------
-CS 152 - Computer Architecture & Engineering
--------------------------------------------------------------------------------------------------------------
-CS 252 - Graduate Computer Architecture
--------------------------------------------------------------------------------------------------------------
-CS 250 - VLSI System Design
--------------------------------------------------------------------------------------------------------------
-EE599 – Verification of VLSI Systems
--------------------------------------------------------------------------------------------------------------
-Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
--------------------------------------------------------------------------------------------------------------
+- CS 61C: Great Ideas of Computer Architecture(Machine Structures)
+- CS 152: Computer Architecture & Engineering
+- CS 252: Graduate Computer Architecture
+- CS 250: VLSI System Design
+- EE599:  Verification of VLSI Systems
+- Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
 
 Related Projects(in progress)
 ------------------------------------------------------------------------------------------------------------
