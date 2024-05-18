@@ -20,7 +20,8 @@ redirect_from:
 - CS 250: VLSI System Design
 - EE599:  Verification of VLSI Systems
 - Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
-
+- ECE 8893B: Hardware Acceleration for Machine Learning
+- CS 217n: 
 Related Projects(in progress)
 ------------------------------------------------------------------------------------------------------------
 32-bit Out-Of-Order Tomasulo Execution Engine 
