@@ -14,10 +14,11 @@ Research Interests
 ------------------
  - Advanced Computer Architecture and Organization
  - Processor Micro-architecture Design Verification
- - Energy Efficient Computing
+ - Energy Efficient Computing(High Performance Computing/Power-wall bottleneck/Memory   scaling/Interconnects)
+ - AI for HPC & HPC for AI
  - Generative AI for Hardware Design and Verification
  - AI hardware accelerators
- - Human-Computer Interaction(HCI)
+ - Human-Computer Interaction(HCI)/Neuromorphic chips
  - Y86-64/RISC-V CPU/SoC Design and Verification(Digital VLSI)
  - CPU/GPU/TPU/NPU/APU/XPU/HPC
 
