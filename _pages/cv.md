@@ -45,18 +45,18 @@ Professional experience
   * Feb 2024 – Present
 * PROJECT DETAILS:
   * Project: RISC-V Processor Design and Verification; & exploring x86
-  * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch.
+  * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch(scalable, energy-efficient).
 * Roles & Responsibilities:
   * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
-  * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
+  * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques(Gshare/TAGE/Tournament/Perceptron),BTB/BHT/PHT design, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
   * Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
-  * Understood and guided the team to design various RISC-V Core(DLX, Mor1kx, & CLARVI).
+  * Understood and guided the team to design various RISC-V Core(DLX, Mor1kx(Superscalar Out-Of-Order), & CLARVI).
   * Gave an overview of UVM for RISC-V CPU Verification.
-  * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool.
+  * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool, LC-3b ISA
   * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
  
 * Tools & Languages:
-  * C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, NASM.
+  * C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, verilator, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
 
 
 * Company:
@@ -231,6 +231,7 @@ Technical Skills
 
 Achievement and awards
 ======
+* HPC Synergy workshop: Elevating AI with High performance parallel Computing(IIIT Sri City Chittoor)
 * Certification in Computer Architecture by Saylor Academy.
 * Workshop on CPU Design using Verilog by NIT TRICHY.
 * Course on Hardware Modeling using Verilog by NPTEL.
