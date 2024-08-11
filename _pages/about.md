@@ -25,7 +25,7 @@ Research Interests
 Career Overview
 ---------------
  - [Feb, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[OpenPiton, Ariane, CLARVI, and Mor1KX]
-         - Hiring and mentoring employees(RISC-V Design & Verification from scratch)
+         - Hiring and mentoring employees(High-End RISC-V CPU Design & Verification from scratch)
          - X86/ARM/RISC-V(exploring advanced computer architecture and broad spectrum of VLSI, LLVM, and Compilers, developing simulators. 
  - [February, 2023 - Nov, 2023] Verification Engineer at Chiplogic Technologies[RISC-V Architecture Verification, Codasip client].
  -  [September, 2021 - Dec, 2022] Verification Engineer at Scaledge Technology[RISC-V Verification(CVA6 and Ibex core), ASIC Verification Engineer, Intel client].
