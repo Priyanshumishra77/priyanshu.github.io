@@ -17,6 +17,7 @@ redirect_from:
 - CS 61C: Great Ideas of Computer Architecture(Machine Structures)(UC Berkeley)
 - CS 152: Computer Architecture & Engineering(UC Berkeley)
 - CS 252: Graduate Computer Architecture(UC Berkeley)
+- CS 203: Advanced Computer Architecture(UC Riverside)
 - CS 250: VLSI System Design(UC Berkeley)
 - EE599:  Verification of VLSI Systems(USC)
 - 18-600: Foundations of computer Systems, (CS:APP3e book) (CMU)
