@@ -44,7 +44,7 @@ Professional experience
   * Verification Engineer
   * Feb 2024 – Present
 * PROJECT DETAILS:
-  * Project: RISC-V Processor Design and Verification; & exploring x86
+  * Project: High-End RISC-V Processor Design and Verification; & exploring x86
   * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch(scalable, energy-efficient).
 * Roles & Responsibilities:
   * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
