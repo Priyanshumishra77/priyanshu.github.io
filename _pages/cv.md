@@ -50,6 +50,10 @@ Professional experience
   * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
   * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques(Gshare/TAGE/Tournament/Perceptron),BTB/BHT/PHT design, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
   * Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
+  * OpenROAD/OpenLane for RTL to GDSII using codespace.
+  * Gem5 for micro-architectural analysis of Cache controller/emulating cpu(RISC-V/ARM/X86)/MESI coherence.
+  * ChampSim(champion simulator) for branch prediction --trace based architecture analysis.
+  * Cocotb/Pyuvm for verification and coverage analysis.
   * Understood and guided the team to design various RISC-V Core(DLX, Mor1kx(Superscalar Out-Of-Order), & CLARVI).
   * Gave an overview of UVM for RISC-V CPU Verification.
   * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool, LC-3b ISA
