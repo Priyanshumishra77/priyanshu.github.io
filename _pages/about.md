@@ -13,7 +13,7 @@ I am a full-time Verification Engineer at SiSoC Semiconductor Technologies, work
 Research Interests
 ------------------
  - Advanced Computer Architecture and Organization
- - Processor Micro-architecture Design Verification
+ - Processor Architecture/Micro-architecture Design Verification
  - Energy Efficient Computing(High Performance Computing/Power-wall bottleneck/Memory   scaling/Interconnects)
  - AI for HPC & HPC for AI
  - Generative AI for Hardware Design and Verification
@@ -24,9 +24,9 @@ Research Interests
 
 Career Overview
 ---------------
- - [Feb, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[OpenPiton, Ariane, CLARVI, and Mor1KX]
+ - [Feb, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[Heterogeneous architectures]
          - Hiring and mentoring employees(High-End RISC-V CPU Design & Verification from scratch)
-         - X86/ARM/RISC-V(exploring advanced computer architecture and broad spectrum of VLSI, LLVM, and Compilers, developing simulators. 
+         - X86/ARM/RISC-V(exploring advanced computer architecture and broad spectrum of VLSI, LLVM, and Compilers, Utilizing open-source emulators(GEM5) & simulator(ChampSim), cloud-based computing(Git codespace, jupyter notebook for various architectural & micro-architectural analysis, performance modeling.
  - [February, 2023 - Nov, 2023] Verification Engineer at Chiplogic Technologies[RISC-V Architecture Verification, Codasip client].
  -  [September, 2021 - Dec, 2022] Verification Engineer at Scaledge Technology[RISC-V Verification(CVA6 and Ibex core), ASIC Verification Engineer, Intel client].
       - Worked on DFD project.
