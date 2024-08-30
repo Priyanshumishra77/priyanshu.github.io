@@ -13,9 +13,9 @@ redirect_from:
 
 PRIYANSHU
 ===
-priyanshud141@gmail.com
-https://priyanshumishra77.github.io/priyanshu.github.io/
-https://www.linkedin.com/in/priyanshu-mishra-68837511b/
+* priyanshud141@gmail.com
+* https://priyanshumishra77.github.io/priyanshu.github.io/
+* https://www.linkedin.com/in/priyanshu-mishra-68837511b/
 ===
 contact: +91-9039391582
 
@@ -60,7 +60,7 @@ Professional experience
   * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
  
 * Tools & Languages:
-  * C/RISC & x86 Assembly, Verilog, and System Verilog, UVM, verilator, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
+  * C/RISC & x86 Assembly, Python, verilog, and System Verilog, UVM, Openlane, Codespace, Jupyter Notebook, iverilog, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
 
 
 * Company:
