@@ -25,6 +25,7 @@ Research Interests
 Career Overview
 ---------------
  - [Feb, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[Heterogeneous architectures]
+         - RISC-V CPU Verification – Ultra-Low-Power Smart Meter SoC(a RV32IMAC variant)
          - Hiring and mentoring employees(High-End RISC-V CPU Design & Verification from scratch)
          - X86/ARM/RISC-V(exploring advanced computer architecture and broad spectrum of VLSI, LLVM, and Compilers, Utilizing open-source emulators(GEM5) & simulator(ChampSim), cloud-based computing(Git codespace, jupyter notebook for various architectural & micro-architectural analysis, performance modeling.
  - [February, 2023 - Nov, 2023] Verification Engineer at Chiplogic Technologies[RISC-V Architecture Verification, Codasip client].
