@@ -20,7 +20,7 @@ PRIYANSHU
 
 Professional Summary
 ======
-* 3+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
+* 4+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
 * Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
 * Functional verification of Serial Protocol: I2C, SPI & USB
 * Good understanding of Processor architecture, micro-architecture, and digital 
