@@ -181,32 +181,7 @@ Professional experience
   * Checked all the Signals and their functionalities
 * Tools & Languages:
   * System Verilog, UVM, Questasim.
-
-
-* Project: IP Level Verification of I2C                                                                                     
-* Description:
-  * The I2C bus uses two wires: serial data (SDA) and serial clock (SCL). All I2C master and slave devices are connected with only those two wires. Each device can be a transmitter, a receiver, or both. Some devices are masters – they generate bus clocks and initiate communication on the bus, other devices are slaves and respond to the commands on the bus. To communicate with a specific device, each slave device must have an address that is unique on the bus. I2C master devices (usually microcontrollers) don’t need an address since no other (slave) device sends commands to the master. 
-* Roles & Responsibilities:
-  * Test plan development.
-  * Analyzing waveforms.
-  * Coding Test bench components including reference models.
-  * Verification closure using Functional coverage and code coverage as closing criteria.
-  * Debugged and test issues reported.
-* Tools & Languages:
-  * System Verilog, UVM, Questasim.
-
-* Project: Design and Verification of SPI Controller using System Verilog
-* Description:
-  * SPI Controller is a design block that acts as an interface between processor and SPI slave. SPI architecture is based on one master and multiple slaves. This controller has 2 interfaces, one is APB interface use for configuring the SPI registers, address, and data, other is SPI interface used for connecting with SPI slaves. SPI uses SCLK, MOSI, MISO, and CS to connect master to slave.
-* Roles & Responsibilities:
-  * Developing SPI Controller RTL code and verify the same using System Verilog.
-  * Listing down design features.
-  * Setting up testbench and testbench component coding.
-  * Test plan development and testcase coding
-* Tools & Languages:
-  * Mentor QuestaSIM, System Verilog
-
-
+    
 * Company:
   * Sakthi CADD Startup
   * Embedded Hardware Design Engineer
