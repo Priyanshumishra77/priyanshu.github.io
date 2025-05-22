@@ -72,7 +72,7 @@ Professional experience
 
 
 * Company:
-  * CHIPLOGIC
+  * CHIPLOGIC(Codasip client)
   * Verification Engineer
   * Feb 2023 – Nov 2023
 * PROJECT DETAILS:
@@ -226,20 +226,12 @@ Professional experience
 
 Technical Skills
 ======
-* Protocol Knowledge
-  * Serial(I2C, SPI,UART, USB)
-  * AMBA(APB, AHB & AXI) protocol
-  * basic of TileLink, wishbone memory
-* HDVL
-  * Verilog, SystemVerilog
-* Programming language
-  * C/C++, Python X86/RISC-Assembly
-* Methodology
-  * UVM, Go-UVM
-* Tools
-  * Synopsys VCS, Mentor’s Questa Sim, Aldec- Riviera, GVIM, VS code, git, Jira, Vivado 	
-* Operating System
-  * Linux, Windows
+* Technologies: Verilog, SystemVerilog, UVM, RISC-V ISA, AMBA Protocols (AXI, AHB, APB), Tilelink & Wishbone
+* Tools: QuestaSim, Synopsys VCS, Verdi, DVE, Git, Makefiles, Open-source EDA tools (RTL to GDSII)
+* Modeling & Analysis Tool: GEM5, Sniper, Marss-x86,  Multi2Sim, McPAT, ChampSim, Intel VTune Profiler, Gprof
+* Operating Systems: Unix/Linux (Ubuntu, CentOS), Windows
+* Programming & Scripting Languages: C, C++, Python, Shell Scripting, RISC-V Assembly
+
 
 Achievement and awards
 ======
