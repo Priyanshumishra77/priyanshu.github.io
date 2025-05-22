@@ -36,6 +36,15 @@ Professional Summary
 * Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
   Neuromorphic computing.
 
+ Technical Skills
+======
+* Technologies: Verilog, SystemVerilog, UVM, RISC-V ISA, AMBA Protocols (AXI, AHB, APB), Tilelink & Wishbone
+* Tools: QuestaSim, Synopsys VCS, Verdi, DVE, Git, Makefiles, Open-source EDA tools (RTL to GDSII)
+* Modeling & Analysis Tool: GEM5, Sniper, Marss-x86,  Multi2Sim, McPAT, ChampSim, Intel VTune Profiler, Gprof
+* Operating Systems: Unix/Linux (Ubuntu, CentOS), Windows
+* Programming & Scripting Languages: C, C++, Python, Shell Scripting, RISC-V Assembly
+ 
+
 Professional experience
 ======
 * Company:
@@ -198,15 +207,6 @@ Professional experience
   * Prepared schematics, layout and BOM.
 * Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
   
-
-Technical Skills
-======
-* Technologies: Verilog, SystemVerilog, UVM, RISC-V ISA, AMBA Protocols (AXI, AHB, APB), Tilelink & Wishbone
-* Tools: QuestaSim, Synopsys VCS, Verdi, DVE, Git, Makefiles, Open-source EDA tools (RTL to GDSII)
-* Modeling & Analysis Tool: GEM5, Sniper, Marss-x86,  Multi2Sim, McPAT, ChampSim, Intel VTune Profiler, Gprof
-* Operating Systems: Unix/Linux (Ubuntu, CentOS), Windows
-* Programming & Scripting Languages: C, C++, Python, Shell Scripting, RISC-V Assembly
-
 
 Achievement and awards
 ======
