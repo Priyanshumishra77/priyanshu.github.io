@@ -47,6 +47,14 @@ Professional experience
   * Project: High-End RISC-V Processor Design and Verification; & exploring x86
   * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch(scalable, energy-efficient).
 * Roles & Responsibilities:
+  * Conducted pre-silicon functional verification of a 32-bit RISC-V CPU core (RV32IMAC) for an ultra-low-power smart metering SoC.
+  * Developed a UVM-based test bench covering all pipeline stages.
+  * Authored test-cases for CSR access, privilege transitions, illegal/misaligned instructions, and external interrupt handling.
+  * Verified sleep/wakeup behavior using WFI instruction and timer/GPIO-triggered interrupts.
+  * Implemented System Verilog Assertions (SVA) for trap entry/exit (mepc, mcause, mret) and pipeline freeze in debug/sleep states.
+  * Designed functional coverage models for instruction types, exception causes, and privilege level transitions.
+  *	Debugged failures using Verdi and DVE, analyzing pipeline control, CSR state, trap/interrupt handling, and bus activity.
+
   * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
   * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques(Gshare/TAGE/Tournament/Perceptron),BTB/BHT/PHT design, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
   * Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
