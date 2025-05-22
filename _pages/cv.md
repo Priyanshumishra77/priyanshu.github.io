@@ -68,7 +68,7 @@ Professional experience
   * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
  
 * Tools & Languages:
-  * C/RISC & x86 Assembly, Python, verilog, and System Verilog, UVM, Openlane, Codespace, Jupyter Notebook, iverilog, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
+  * System Verilog (UVM/SVA), Verilog, RISC-V Assembly, Synopsys VCS, Cadence Xcelium, QuestaSim, Verdi, DVE, Git, UVM, Coverage-Driven Verification (CDV), Assertion-Based Verification (ABV), C/RISC & x86 Assembly, Python, verilog, and System Verilog, UVM, Openlane, Codespace, Jupyter Notebook, iverilog, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
 
 
 * Company:
