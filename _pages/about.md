@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time Verification Engineer at SiSoC Semiconductor Technologies, working on Design and Verification of a RISC-V CPU/SoC.
+I am a full-time Verification Engineer at SiSoC Semiconductor Technologies, working on AI-SoC Design Verification. Previously verified RISC-V CPU(using SV/UVM) and it's architecture verification(Assembly with Spike and gun-toolchain).
 
 Research Interests
 ------------------
