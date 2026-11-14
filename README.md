@@ -1,41 +1,40 @@
+# Priyanshu Mishra — CPU / SoC Design Verification Portfolio
 
-# Academic Pages
+Personal engineering portfolio for my work and independent interests in processor verification, computer architecture, DSP/ASIP HW/SW co-verification, SoC design verification, and AI hardware.
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+**Live website:** <https://priyanshumishra77.github.io/priyanshu.github.io/>  
+**LinkedIn:** <https://www.linkedin.com/in/priyanshu-mishra-68837511b/>  
+**GitHub:** <https://github.com/Priyanshumishra77>
 
-Academic Pages is a Github Pages template for academic websites.
+## Professional focus
 
+I am a CPU/SoC design-verification engineer with nearly five years of hands-on experience across RISC-V processor verification, SoC IP verification, custom DSP/ASIP HW/SW co-verification, and processor architecture.
 
-# Getting Started
+Current work: ACL Digital, on a Renesas client project involving custom DSP/ASIP verification, compiler-generated workloads, and ISS-to-RTL functional/architectural correlation.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Previous work includes NXP TrustZone-enabled AI SoC verification across eDMA5, AHBSC, MMU, LLC, and PMUX; RISC-V processor verification for Codasip; and CVA6/Ariane and Intel-related verification work.
 
-See more info at https://academicpages.github.io/
+For the current career summary, see the [web CV](https://priyanshumishra77.github.io/priyanshu.github.io/cv/).
 
-## Running Locally
+## Portfolio map
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+- **[About](https://priyanshumishra77.github.io/priyanshu.github.io/):** professional overview, current work, technical focus, and career timeline.
+- **[Technical Projects](https://priyanshumishra77.github.io/priyanshu.github.io/diyprojects/):** processor architecture, memory systems, interconnect, hardware acceleration, and ongoing personal LLM-inference hardware projects.
+- **[Learning & Workshops](https://priyanshumishra77.github.io/priyanshu.github.io/mooccourses/):** certifications, workshops, conference participation, and self-directed coursework.
+- **[Curriculum Vitae](https://priyanshumishra77.github.io/priyanshu.github.io/cv/):** current professional experience and technical skills.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Project entries are labelled conservatively. Topics without a linked repository, report, or measured result are learning and project interests—not claims of completed implementations. Personal LLM-inference hardware work is in progress and will be documented when it is ready for public review.
 
+## Built with
 
-# Maintenance 
+This site uses the [Academic Pages](https://academicpages.github.io/) project, built on Jekyll and the Minimal Mistakes theme. The original theme and project attribution and licensing are retained in this repository.
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## Run locally
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+1. Install Ruby, Bundler, and Node.js.
+2. Clone this repository.
+3. Install Ruby dependencies with `bundle install`.
+4. Start the local server with `bundle exec jekyll serve --livereload`.
+5. Open <http://localhost:4000/priyanshu.github.io/>.
 
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+The repository is configured for the GitHub Pages project-site URL shown above; local preview URLs may differ depending on the Jekyll configuration.

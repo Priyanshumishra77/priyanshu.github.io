@@ -1,122 +1,62 @@
 ---
 layout: archive
-title: "DIY Projects"
+title: "Technical Projects"
 permalink: /diyprojects/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /DIY Projects
 ---
 
- 
- My Self Explored MS/PhD courses & Projects(Computer Architecture and Organization, VLSI Design, Verification) in progress  
-------------------------------------------------------------------------------------------------------------
+My independent learning and project interests centre on **computer architecture, processor microarchitecture, RTL design, design verification, memory systems, and AI hardware**.
 
+This page is a curated archive of project topics from my self-directed work. Project maturity varies: some are study topics or planned explorations, while others have involved implementation. I will add repository links, architecture diagrams, verification plans, and measured results as individual projects are ready to publish. A topic listed here should not be interpreted as a claim that a complete implementation or verification result is available.
 
- Self taught MS EECS Courses(UC Berkeley, MIT, USC, CMU, GeorgiaTech, & Stanford)
-------------------------------------------------------------------------------------------------------------
-- CS 61C: Great Ideas of Computer Architecture(Machine Structures)(UC Berkeley)
-- CS 152: Computer Architecture & Engineering(UC Berkeley)
-- CS 252: Graduate Computer Architecture(UC Berkeley)
-- CS 203: Advanced Computer Architecture(x86)(UC Riverside)
-- 18-447: RISC-V Edition(1. Microprocessors, 2. Memory & I/O, 3. Parallel Computer Architecture)(CMU)
-- CS 250: VLSI System Design(UC Berkeley)
-- EE599:  Verification of VLSI Systems(USC)
-- 18-600: Foundations of computer Systems, (CS:APP3e book) (CMU)
-- ECE 8893B: Hardware Acceleration for Machine Learning(Georgia Institute Of Technology)
-- CS 217: Hardware Accelerators for Machine Learning(Stanford)
+## Current independent focus
 
-Related Projects(in progress)
-------------------------------------------------------------------------------------------------------------
-32-bit Out-Of-Order Tomasulo Execution Engine 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** Type here  
+### LLM inference hardware — in progress
 
-Functional Verification of  MESI protocol based L1 cache coherent system
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
+I am building my understanding through personal projects focused on LLM inference hardware. The work is ongoing. I plan to publish the architecture, implementation choices, verification approach, and results after the projects reach a reviewable state.
 
-<!---
-Pointer Analysis Debugger <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text"><i class="fa fa-file-powerpoint-o" aria-hidden="true" style="font-size:48px;color:black;"></i></a>
--->
+## Processor architecture and microarchitecture
 
-Simulator for LC-3b ISA
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
+- 32-bit out-of-order Tomasulo execution engine.
+- Y86-64 CPU design and formal verification.
+- Out-of-order MIPS R10K-style processor based on RISC-V ISA.
+- In-order RISC-V CPU design.
+- FPGA design of a superscalar out-of-order processor.
+- Superscalar pipeline simulator.
+- DLX processor design.
+- Simulator for the LC-3b ISA.
+- Chip multiprocessor with core multithreading.
+- Personal architecture research and study involving CVA6, OpenPiton, Mor1kx, and CLARVI.
 
-Branch Predictors(global 2-bit, bimodal, and correlated) and Branch predictor simulator
--------------------------------------------------------------------------------------------------------------
-**Abstract**:  
+## Memory systems and interconnect
 
-Cache & Memory Hierarchy Design simulator
--------------------------------------------------------------------------------------------------------------
-**Abstract**: 	
+- Functional verification of an MESI-protocol-based L1 cache-coherent system.
+- Cache and memory hierarchy design simulator.
+- CAM unit and LRU stack design using Verilog and ModelSim.
+- Formal verification of cache-coherence protocols using Murphi.
+- AXI interconnect network design and simulation.
+- Branch-predictor studies and simulator: global 2-bit, bimodal, and correlated predictors.
 
-Design CAM unit and LRU stack using verilog and simulate on Modelsim
--------------------------------------------------------------------------------------------------------------
-**Abstract**: 
+## Hardware acceleration and parallel compute
 
-Y86-64 CPU  design and formal verification
--------------------------------------------------------------------------------------------------------------
-**Abstract**:   
+- Binary artificial neural network using Verilog for ASIC/FPGA exploration.
+- SMT-based GPGPU design.
+- Reed–Solomon error-correction decoder hardware accelerator.
+- Exploration of processor and accelerator organization for heterogeneous compute.
 
-Chip Multiprocessor with core multithreading
--------------------------------------------------------------------------------------------------------------
-**Abstract**:  
+## Self-directed coursework
 
-Out-Of-Order MIPS R10K style processor design based on RISC-V ISA and an In-Order CPU based on RISC-V ISA
--------------------------------------------------------------------------------------------------------------
-**Abstract**: 
+My architecture study has used publicly available course materials and resources from UC Berkeley, CMU, Stanford, Georgia Tech, UC Riverside, and other institutions. These are self-directed learning activities, not claims of enrollment in or completion of a degree programme. See [Learning & Workshops](/mooccourses/) for the course and workshop record.
 
-<!---
-## Graduate Courses
- - [Scripting Languages - Design and Implementation](http://polaris.cs.illinois.edu/CS598)
- - [Advanced Compiler Construction](https://cs.illinois.edu/courses/profile/cs526/)
- - [Parallel Computer Architectures](https://courses.engr.illinois.edu/cs533/)
- - [Parallel Programming with Migratable Objects](https://wiki.cites.illinois.edu/wiki/display/cs598lvk/Home)
- - [Introduction to Parallel Programming for Scientists and Engineers](https://cs.illinois.edu/courses/profile/CS420)
--->
+## Publishing project work
 
-FPGA Design of  superscalar out-of-order processor
--------------------------------------------------------------------------------------------------------------
-**Abstract**: 
+For each project I publish, I aim to include:
 
-
-Reed Solomon Error correction code decoder hardware accelerator 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-Improving Cache efficiency by exploiting read-write disparity 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-Processor Beyond 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-Formal Verification of cache coherence protocol using Murphi 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-Binary Artificial Neural network using Verilog - ASIC & FPGA Design with verilog 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-Superscalar Pipeline Simulator 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-cva6, OpenPiton, Mor1kx, and CLARVI ---- ONGOING MY PERSONAL RESEARCH
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-SMT based GPGPU Design 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-AXI Interconnect Network and Simulate 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
-
-DLX processor design 
--------------------------------------------------------------------------------------------------------------
-**Abstract:** 
+1. Problem statement and architectural motivation.
+2. Block diagram and microarchitectural decisions.
+3. RTL/software implementation and build instructions.
+4. Verification strategy, reference model, assertions, and coverage plan.
+5. Simulation results, debug observations, limitations, and next steps.
+6. Source-code repository or technical report, where publicly shareable.

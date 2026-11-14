@@ -1,22 +1,13 @@
-# main links links
+# Main navigation links
 main:
-  - title: "DIY Projects"
-    url: /diyprojects/   
+  - title: "Technical Projects"
+    url: /diyprojects/
 
-  - title: "MOOC Courses"
-    url: /mooccourses/ 
+  - title: "Learning & Workshops"
+    url: /mooccourses/
 
-  - title: "Resume"
+  - title: "Curriculum Vitae"
     url: /cv/
-    
-  #- title: "Portfolio"
-   # url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
-  #- title: "CV"
-   # url: /cv/
-    
+
   - title: "Hobbies"
     url: /hobbies/

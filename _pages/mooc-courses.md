@@ -1,137 +1,46 @@
 ---
 layout: archive
-title: "MOOC Courses"
+title: "Learning & Workshops"
 permalink: /mooccourses/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /mooccourses
 ---
 
-[Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty), CS301: Computer Architecture
---------------------
- - Pipelining
- - Caches, coherency protocols
- - Superscalar and VLIW
+This page records selected certifications, workshops, conference participation, and self-directed technical learning related to computer architecture, digital design, verification, FPGA systems, and AI hardware. **Not every item below is a formal certification**; the format is identified where known.
 
-Armv8 Architecture: Exception Level and Exception State
---------------------
- - Arm Architecture
- - Arm Cortex
+## Certifications
 
-SoC Verification using SystemVerilog
---------------------
- - SystemVerilog
+- [Computer Architecture — Saylor Academy](https://certificates.saylor.org/f19f7b29-e244-4c68-8a11-703b26bcec60#gs.84ymty).
+- FPGA Computing Systems — Coursera.
 
-Hello FPGA
---------------------
- - FPGA
+## Workshops, programmes and recognition
 
-TCP on FPGA made practical and fast
---------------------
+- **CPU Design using Verilog — NIT Trichy:** single-cycle, multi-cycle, pipelined, multithreaded and multicore processor concepts, including FPU-oriented design.
+- **GPU Programming — IIT Madras.**
+- **Machine Learning on Hardware — NIT Trichy:** neural-network hardware concepts and Verilog-based exploration.
+- **Hardware for Deep Learning — Bar-Ilan University.**
+- **Embedded Systems and VLSI Design — IIT Kanpur.**
+- **HPC Synergy: Elevating AI with High-Performance Parallel Computing — IIIT Sri City.**
+- **RISC-V and OpenPOWER in HPC — 2nd workshop, ICS International Conference on Supercomputing, 2021.**
+- **SoC Design using OpenPOWER — VIT & IBM:** Top 10 performer.
+- **35th International Conference on VLSI Design — VLSI Society India:** attendee.
 
+## Self-directed computer architecture coursework
 
-Computer Vision: Object Tracking with OpenCV & Python
---------------------
- - Python
- - YOLO V2
- - OpenCV
+The following are course materials and learning tracks I have studied independently. They are not university degrees or claims of formal enrolment.
 
-Developing FPGA-accelerated cloud applications with SDAccel: Theory
---------------------
- - FPGA
- - SDK for Acceleration
- - 
+- **UC Berkeley:** CS 61C — Great Ideas of Computer Architecture; CS 152 — Computer Architecture & Engineering; CS 252 — Graduate Computer Architecture; CS 250 — VLSI System Design.
+- **Carnegie Mellon University:** 18-447 — Computer Architecture (RISC-V edition); 18-600 — Foundations of Computer Systems.
+- **Stanford University:** CS 217 — Hardware Accelerators for Machine Learning.
+- **Georgia Institute of Technology:** ECE 8893B — Hardware Acceleration for Machine Learning.
+- **University of California, Riverside:** CS 203 — Advanced Computer Architecture (x86).
+- **University of Southern California:** EE 599 — Verification of VLSI Systems.
 
-FPGA Computing Systems: Background knowledge and introductory materials
---------------------
- - Basics and advanced concepts of FPGA
+## Additional technical learning
 
-Hands-On AI/ML Cloud Study Jam, GDG cloud, Palo Alto
---------------------
- - Training dataset and inferencing
- - Neural Network architecture and applications(CNN, ANN, BNN SNN)
- - K-Means clustering
- - Pruning
- - Python
- - Jupyter Notebook and Google Colaboratory
- - Image recognition
-
-Industrial Training on Embedded Systems and PCB Designing
---------------------
- - 8085, 8086
- - Arduino, Raspberry Pi
- - 2 layer PCB
-
-Embedded systems and VLSI Design
---------------------
- - Keil and Proteus tool
- - Embedded C
- - Verilog code for Traffic signals
-
-8051 Embedded Systems Workshop
---------------------
- - Keil-Arm MCU
- - 8051 concepts and programming
-
-Workshop in PCB Designing and Robotics
---------------------
- - PCB design steps and creation
- - Drone design
-
-35th international conference on VLSI Design
---------------------
- - Conference on VLSI Design
- - past, present and Future in VLSI Space
-
-CPU Design using Verilog
---------------------
- - Single-cycle, multi-cycle and Pipelined processor
- - Multithreaded and Multi-core processor
- - Pipelined CPU with FPU
-
-Machine Learning on Hardware
---------------------
- - Verilog
- - Neural Networks for Gates, Muxes and RAM
- - Google colab
- - Quartus Prime and ModelSim
-
-Online Training program on VLSI SYSTEM DESIGN USING OPEN-SOURCE EDA
---------------------
- - Intro to Raven chip, risc-architecture
- - EDA Tools
- - Ngspice –> General purpose circuit simulation program for non-linear and linear 
-   analyses.
- - Magic –> VLSI Layout editor, extraction and DRC tool.
- - Opentimer –> Open-source high performance timing analysis tool.
- - eSim –> Complex Circuit design, SPICE simulation, analysis and PCB design.
- - Qflow –> Tool chain (like Yosys, Graywolf) for complete RTL2GDS flow.
-
-SoC Design using OpenPOWER Cores
---------------------
- - IBM OpenPower processsor
- - From RTL to GDSII using OpenLane(Microwatt, Litex SoC, MicroPython)
- - Simulation with FPGA
- - Design and development of a SoC
-
-SystemVerilog for verification part 2: projects
---------------------
- - D-FF, FIFO
- - I2C, SPI, & UART
- - APB, AHB, & AXI
- - Wishbone
-
-UVM for verification part 2: projects
---------------------
- - D-FF
- - UART, I2C, SPI
- - APB, AXI and demonstration of virtual sequencer and sequence library
- - TLM Analysis FIFO
-
-2nd workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing 2021
---------------------
- - RISC-V for HPC
- - OCP
- - BAMBOO
-
-   
+- Armv8 architecture, exception levels, exception state, and Cortex processor concepts.
+- SoC verification using SystemVerilog; UVM verification projects covering FIFO, D-FF, UART, I2C, SPI, APB, AHB, AXI, Wishbone, virtual sequencers, and TLM analysis FIFO.
+- FPGA systems, FPGA-accelerated cloud applications, SDAccel, and FPGA networking.
+- AI/ML fundamentals and neural-network architectures, including CNN, ANN, BNN, and SNN concepts; Python, OpenCV, Jupyter Notebook, and Colab.
+- Embedded systems, microcontrollers, PCB design, and open-source RTL-to-GDS tooling.

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About - Priyanshu Mishra"
+title                    : "Priyanshu Mishra | CPU / SoC Design Verification"
 title_separator          : "-"
 name                     : &name "Priyanshu Mishra"
-description              : &description "Design & Verification Engineer"
+description              : &description "CPU / SoC design verification engineer focused on RISC-V, DSP/ASIP HW/SW co-verification, and processor architecture."
 url                      : https://priyanshumishra77.github.io/priyanshu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "priyanshu.github.io"
@@ -83,15 +83,15 @@ analytics:
 author:
   name             : "Priyanshu Mishra"
   avatar           : "okay, this is my pic.jpg"
-  bio              : "Design & Verification Engineer"
+  bio              : "CPU / SoC Design Verification | RISC-V | DSP/ASIP | HW/SW Co-Verification"
 #  location         : "Bengaluru"
 #  download         : "https://sdasgup3.github.io/files/Resume/Source/Sandeep/Resume_Job.pdf"
-  employer         :
+  employer         : "ACL Digital"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "https://scholar.google.com/citations?user=NayNii0AAAAJ&hl=en"
   email            : priyanshud141@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://priyanshumishra77.github.io/priyanshu.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :

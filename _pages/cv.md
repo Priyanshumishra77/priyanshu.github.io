@@ -1,228 +1,108 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+# Priyanshu Mishra
 
+**CPU / SoC Design Verification Engineer | RISC-V | DSP/ASIP | Processor HW/SW Co-Verification**
 
+Bhopal, Madhya Pradesh, India · +91-9039391582 · [priyanshud141@gmail.com](mailto:priyanshud141@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/priyanshu-mishra-68837511b/) · [GitHub](https://github.com/Priyanshumishra77)
 
-PRIYANSHU
-===
-* priyanshud141@gmail.com
-* https://priyanshumishra77.github.io/priyanshu.github.io/
-* https://www.linkedin.com/in/priyanshu-mishra-68837511b/
-* contact: +91-9039391582
+## Professional summary
 
-Professional Summary
-======
-* 4+ years of experience in DV(CPU Verification) and Embedded Hardware domain.
-* Functional verification of AMBA Protocol: APB, AHB, and AXI protocol.
-* Functional verification of Serial Protocol: I2C, SPI & USB
-* Good understanding of Processor architecture, micro-architecture, and digital 
-  design, RISC-V ISA.
-* Good understanding of C, Python, RISC Assembly, Verilog & System Verilog.
-* Knowledge of various simulation tools for Computer Architecture and VLSI.
-* Experience in building a Verification Environment from scratch using System 
-  Verilog and methodologies like UVM.
-* Proficient in writing test cases, simulation, and debugging.
-* Hands-on expertise of working on Test Plan and test bench development in UVM 
-  environment.
-* Good understanding of ASIC Design Flow/SoC and Design Verification Techniques.
-* Basic Knowledge of GPU programming(CUDA, OpenMP), Hardware accelerators, and 
-  Neuromorphic computing.
+CPU/SoC design-verification engineer with **nearly five years of hands-on experience** spanning RISC-V CPU verification, custom DSP/ASIP HW/SW co-verification, SoC IP bring-up, and processor architecture/RTL development. Experienced in SystemVerilog/UVM, directed and constrained-random testing, ISA and architectural validation, compiler-driven workloads, ISS-to-RTL functional correlation, regression triage, and waveform-based root-cause analysis.
 
- Technical Skills
-======
-* Technologies: Verilog, SystemVerilog, UVM, RISC-V ISA, AMBA Protocols (AXI, AHB, APB), Tilelink & Wishbone
-* Tools: QuestaSim, Synopsys VCS, Verdi, DVE, Git, Makefiles, Open-source EDA tools (RTL to GDSII)
-* Modeling & Analysis Tool: GEM5, Sniper, Marss-x86,  Multi2Sim, McPAT, ChampSim, Intel VTune Profiler, Gprof
-* Operating Systems: Unix/Linux (Ubuntu, CentOS), Windows
-* Programming & Scripting Languages: C, C++, Python, Shell Scripting, RISC-V Assembly
- 
+## Technical skills
 
-Professional experience
-======
-* Company:
-  * SISOC SEMICONDUCTOR
-  * Verification Engineer
-  * Feb 2024 – Present
-* PROJECT DETAILS:
-  * Project: RISC-V CPU Verification – Ultra-Low-Power Smart Meter SoC(a RV32IMAC variant)
-  * Project: High-End RISC-V Processor Design and Verification; & exploring x86
-  * Description: Building & leading a team of 10 engineers. Interviewing, Mentoring and assisting them in designing a high-performance RISC-V CPU from scratch(scalable, energy-efficient).
-* Roles & Responsibilities:
-  * Conducted pre-silicon functional verification of a 32-bit RISC-V CPU core (RV32IMAC) for an ultra-low-power smart metering SoC.
-  * Developed a UVM-based test bench covering all pipeline stages.
-  * Authored test-cases for CSR access, privilege transitions, illegal/misaligned instructions, and external interrupt handling.
-  * Verified sleep/wakeup behavior using WFI instruction and timer/GPIO-triggered interrupts.
-  * Implemented System Verilog Assertions (SVA) for trap entry/exit (mepc, mcause, mret) and pipeline freeze in debug/sleep states.
-  * Designed functional coverage models for instruction types, exception causes, and privilege level transitions.
-  *	Debugged failures using Verdi and DVE, analyzing pipeline control, CSR state, trap/interrupt handling, and bus activity.
+**Processor architecture:** RISC-V RV32/RV64, IMAFDC, privileged/unprivileged ISA, CSRs, traps/exceptions, privilege modes, Sv32/Sv39/Sv48/Sv57, CPU pipelines, hazards, LSU, MMU/TLB, caches, ASIP/DSP; Arm Cortex-M55/M33, TrustZone, SAU/MPU.
 
-  * Taught(Graduate Computer Architecture)- RISC-V ISA & Micro-architecture design for RV32I/64I.
-  * Illustrated them on tools and techniques for optimization and performance analysis for a fully functional CPU(examples include:- Branch prediction techniques(Gshare/TAGE/Tournament/Perceptron),BTB/BHT/PHT design, BHSR, Cache design, mapping techniques MSHR, Hardware & software prefetching, neural network and reinforcement learning, loop unrolling, Tomasulo and Amdahl's rule for performance analysis, dynamic scheduling).
-  * Various Open-source tools and toolchain discussion, LLVM. Taught C/RISC-V assembly code.
-  * OpenROAD/OpenLane for RTL to GDSII using codespace.
-  * Gem5 for micro-architectural analysis of Cache controller/emulating cpu(RISC-V/ARM/X86)/MESI coherence.
-  * ChampSim(champion simulator) for branch prediction --trace based architecture analysis.
-  * Cocotb/Pyuvm for verification and coverage analysis.
-  * Understood and guided the team to design various RISC-V Core(DLX, Mor1kx(Superscalar Out-Of-Order), & CLARVI).
-  * Gave an overview of UVM for RISC-V CPU Verification.
-  * Teaching myself and doing various projects on IA32/IA64(x86 Architecture) 🡪Y86-64 processor design and x86 assembly practice on NASM tool, LC-3b ISA
-  * Exploring RISC-V(Packed SIMD/SIMD Vector extension)/ Bit manipulation/Vortex(GPU).
- 
-* Tools & Languages:
-  * System Verilog (UVM/SVA), Verilog, RISC-V Assembly, Synopsys VCS, Cadence Xcelium, QuestaSim, Verdi, DVE, Git, UVM, Coverage-Driven Verification (CDV), Assertion-Based Verification (ABV), C/RISC & x86 Assembly, Python, verilog, and System Verilog, UVM, Openlane, Codespace, Jupyter Notebook, iverilog, Gtkwave, pyuvm, cocotb, open-source web based simulators, NASM.
+**Design verification:** SystemVerilog, Verilog, UVM, directed and constrained-random testing, functional coverage, assertion-based verification, vPlans, testbench bring-up, regression automation/triage, waveform debug, RTL root-cause analysis, software-driven verification.
 
+**Processor HW/SW co-verification:** Synopsys ASIP Designer/Programmer, GCC, Clang, Chess compiler, compiler-generated workloads, issue.out-to-HEX flow, ISS-to-RTL functional/architectural correlation, C/C++ and RISC-V assembly.
 
-* Company:
-  * CHIPLOGIC(Codasip client)
-  * Verification Engineer
-  * Feb 2023 – Nov 2023
-* PROJECT DETAILS:
+**SoC and interfaces:** AMBA AXI, AHB 5.0, APB, DMA/eDMA, AHB system control, MMU/TLB, Arteris CodaCache LLC, SRAM lookup tables, arbitration, TrustZone, MCU/DSP/SoC integration.
 
-* Project: RISC-V Processor Verification                                                                                      
-* Description:
-  * The project involves creating a RISC-V CPU from the ground up. It comprises all previously supported and recently added extensions, and privileged and unprivileged specs.
-* Roles & Responsibilities:
-  * Understood and wrote tests for RISC-V Organisation and Architecture, RV32bit/64bit, extensions: (IMAFDC/ZICCLSM/ZA64RS/ZIFENCE/ZICSR).
-  * Understood the specification (unprivileged and privileged).
-  * Wrote the verification strategy/plan for the above variants of RISC-V.
-  * Encoding of pseudo-instructions and writing the risc-v instructions test cases, debugging and handling the traps for hint-instructions, misaligned addresses/load/store/faults/illegal trap exceptions.
-  * Wrote macros for different instructions.
-  * Implementation of the switching modes (M, S, and U) of risc-v/various features/enabling the virtualization (sv32/39/48/57) and memory subsystems (cache, MMU, TLB, VM/PM).
-  * Implementation of CSR listing.
-  * Understanding the hypervisor mode.
-  * Understanding of the risc-v environment, linker script, and toolchain makefile and makefrag.
-* Tools & Languages:
-  * RISC-V GNU toolchain, gdb, SPIKE, Assembly, Gitlab, Jira, Asciidoc.
+**Tools and programming:** Cadence Xcelium, SimVision, vManager; Synopsys VCS, Verdi, DVE; QuestaSim; SPIKE, OVPSim, RISC-V GNU toolchain, GDB; Cachegrind, gprof, FlameGraph; C/C++, Python, Perl, Shell/Bash, Makefiles; Git/GitLab, Jira, DesignSync; Linux/Unix.
 
+## Professional experience
 
-* Company:
-  * SCALEDGE
-  * Design Verification Engineer
-  * Sep2021–Dec 2022
-* PROJECT DETAILS
+### ACL Digital — CPU / SoC Design Verification Engineer
+**Jun 2026 – Present | Client project: Renesas | Custom DSP / ASIP verification**
 
-* Project: RISC-V Processor Verification                                                                                      
-* Description:
-  * The project involves the understanding risc-v processor(instructions/R-I type, S-type/golden reference model etc.) and micro-architectural aspects of a computer architecture.
-* Roles & Responsibilities:
-  * RISC-V architecture expertise (RV32/64IMAFDC).
-  * Study of Pipeline, Cache and computer architecture.
-  * Studied about Pipelining and Hazards, Cache, and Cache coherence.
-  * Worked on writing RISC-V assembly level tests targeting various architecture/microarchitecture features.
-  * Working on test plan, test bench development, and coverage analysis for processor verification.
-  * Wrote testcases for ALU and load, store instructions using of random generators and reference models for verification.
-  * Wrote testcases for various Register-Immediate Integer type Instruction’s like, ADDI, SLTI, SLTIU, XORI, ORI, ANDI, SLLI, SRLI, SRAI.
-* Tools & Language:
-  * Spike, GNU toolchain, Git, assembly, SystemVerilog
+- Perform HW/SW co-verification of a custom DSP/ASIP generated with Synopsys ASIP Designer, correlating compiler/SDK outputs, instruction-set simulator (ISS) behavior, and generated RTL execution.
+- Work across approximately 50 processor/DSP functional requirements, including vector operations, saturation, SoftFloat/floating-point behavior, arithmetic corner cases, and application-specific instruction behavior.
+- Use Synopsys ASIP Programmer with GCC, Clang, and Chess compiler; integrate compiler-generated issue.out output into the supplied SystemVerilog/UVM framework by converting program images to HEX for Cadence Xcelium RTL simulation.
+- Perform ISS-to-RTL functional and architectural correlation, debugging discrepancies across generated instruction streams, reference behavior, simulation traces, and processor state.
+- Verify RISC-V AES and SHA-2 functionality on the ASIP Designer-generated TRV32P5X; profile workloads with Cachegrind, gprof, and FlameGraph to inspect execution hotspots.
+- Enable RISC-V MCU boot and interrupt flows, automate testcase creation/execution scripts, and contribute to DSP subsystem integration and SoC-level verification.
 
-* Project: RISCV core verification using Google Random Instruction Generator                                                            
-* Description:
-  * This project involves the understanding of Google/RISCV-dv SV/UVM based Random Instruction Generator.
-* Roles & Responsibilities:
-  * Understanding the existing SV/UVM generator flow.
-  * Studying RISC-V and ISA specification.
-  * Generating and running different assembly tests
-* Tools & Languages:
-  * System Verilog, Git and YAML, GCC compiler, SPIKE and OVPSim
+### SiSoC Semiconductor Technologies — SoC Design Verification Engineer
+**May 2025 – May 2026 | Client project: NXP | TrustZone-enabled 16 nm AI SoC**
 
-* Project: CVA6 (Ariane core) Verification                                                                                                                                * Description:
-  * This project involves the study and verification of micro-architectural details of a RISCV processor (CVA6 core).
-* Roles & Responsibilities:
-  * Understanding the CVA6 architecture and microarchitecture.
-  * Compiling and running assembly tests on CVA6 using Synopsys VCS.
-  * Used Google RISCV-DV random instruction generator to generate random assembly tests and Spike for the simulation of these random tests.
-* Tools & Languages:
-  * System Verilog and Synopsys VCS
+- Performed pre-silicon functional verification and IP bring-up for a SoC integrating Arm Cortex-M55/M33, GPU, NPU/Arm Ethos, and DSP; adapted UVM infrastructure from an earlier 28 nm platform.
+- Owned verification activities for eDMA5, AHBSC, MMU, LLC, and PMUX; authored verification plans for eight IPs and brought up UVM environments for eDMA5, AHBSC, MMU, and LLC, including memory maps, testbench configuration, and register models.
+- Developed and executed 70+ AHBSC tests, 25 eDMA5 tests, 13 MMU tests, and 15 LLC tests, spanning 130+ functional scenarios.
+- Verified TrustZone secure boot, SAU/MPU setup, VTOR lock-down, MMU translation, TLB/SRAM lookup behavior, multi-port arbitration, and Arteris CodaCache replacement/PLRU behavior.
+- Built Perl test-matrix generation, vGen scripts, and VSIF regression configurations; integrated C software-driven SoC tests with UVM and migrated eDMA3 verification infrastructure to eDMA5.
+- Identified and debugged eight pre-silicon RTL defects across eDMA5/AHBSC, including interrupt/HRESP gating, reset races, DMA-channel configuration, PBUS arbitration, and AHB protocol violations.
+- Triaged waveforms, logs, Tarmac traces, and .lst files, reaching approximately 93% pass rate at the second project milestone.
 
+### SiSoC Semiconductor Technologies — CPU Architecture & Verification Lead
+**Feb 2024 – Apr 2025**
 
-* Client:
-  * Intel
-  * ASIC Verification Engineer
-  * Jun 2022 - Oct 2022                                                       
-* PROJECT DETAILS: 
+- Led a 10-engineer team across architecture, microarchitecture, RTL development, and verification of a high-performance RISC-V CPU from concept through RTL.
+- Translated privileged/unprivileged ISA requirements and extensions into implementation and validation tasks.
+- Led or supported work across CPU pipelines, hazards, execution units, and memory subsystem integration.
+- Supported xv6 OS-based validation and system-level execution/SoC bring-up.
+- Contributed to heterogeneous compute/GPGPU activities, architecture labs, verification training, technical knowledge-sharing, and mentoring.
 
-* Project: RPLS regression and GNR FE DV                              
-* Description:
-  * RPLS regression and GNRIO DFD FE DV.
-* Roles & Responsibilities:
-  * Failure monitoring and creating sheets for error signatures, triage, and bucketization.
-  * GNRIO running testcases and compare between different versions.
-  * Explored different hierarchy blocks and environment.
-  * Assertion failure debug.
-  * Study of IP’s
-* Tools & Languages:
-  * Venus Tool, NB Flow Manager and Simregress Command, Verdi
+### Chiplogic — RISC-V Processor Verification Engineer
+**Feb 2023 – Oct 2023 | Client project: Codasip**
 
-* Company:
-  * VGIT
-  * Verification Trainee Engineer
-  * Jan 2021-Aug 2021                                                       
-* PROJECT DETAILS
+- Verified RV32/RV64 processors across IMAFDC and extensions including Zicclsm, Za64rs, Zifence, and Zicsr.
+- Developed assembly tests for pseudo-instructions, hints, traps, misaligned-access faults, illegal instructions, exceptions, and architectural corner cases.
+- Validated M/S/U privilege behavior, CSRs, Sv32/Sv39/Sv48/Sv57 virtual-memory modes, and MMU/TLB/cache behavior.
+- Investigated RISC-V H-extension behavior and supported simulator bring-up, toolchain internals, linker scripts, Makefiles, and test-build infrastructure.
 
-* Project: Verification of AMBA AXI.                                                                                      
-* Description:
-  * The AMBA AXI protocol is targeted at high-performance, high-frequency system design. It has separate address/control and data phases and supports for unaligned data transfers using byte strobes, burst-based transactions with only start address issued, and support for burst lengths up to 256 beats. 
-* Roles & Responsibilities:
-  * Understanding the specifications of the block.
-  * Developed UVM Test bench for verification.
-  * Listing down features, scenarios.
-  * Worked on code and functional coverages.
-  * Verified the testcases on AWSIZE, AWBURST, AWLEN, WSTRB, WLAST.
-* Tools & Languages:
-  * System Verilog, UVM, Questasim
-* Project: Verification of AMBA AHB                                                                                     
-* Description: 
-* AHB implements the features required for high-performance, high-clock frequency systems including burst transfers, single-clock edge operation, non-tristate implementation, wide data bus configurations.
+### Scaledge — DV Engineer, RTL Regression / Front-End DV
+**Jun 2022 – Oct 2022 | Client project: Intel via Cyient**
 
-* Roles & Responsibilities:
-  * Understanding the specifications of the block.
-  * Test plan development.
-  * Developed UVM components for AHB Master agent.
-  * Listing down features, scenarios.
-  * Checked all the Signals and their functionalities
-* Tools & Languages:
-  * System Verilog, UVM, Questasim.
-    
-* Company:
-  * Sakthi CADD Startup
-  * Embedded Hardware Design Engineer
-  * Jan 2020 – Dec 2020
-* PROJECT DETAILS
+- Ran block-level RTL regressions for Intel RPLS/GNRIO-related IP.
+- Debugged assertion and simulation failures through Synopsys Verdi, waveforms, and regression logs.
 
-* Project: Development of a Warehouse logistics of an autonomous vehicle.
-* Description:
-  * This vehicle replaces the traditional fork/lift trucks to handle pallets in rack areas.
-* Roles & Responsibilities:
-  * Read the datasheet.
-  * Designed and developed BMS IC.
-  * Develop battery pack.
-  * Prepared schematics, layout and BOM.
-* Tools & Languages: OrCAD Cadence CIS, Allegro, PI Expert
-  
+### Scaledge — Design Verification Engineer, RISC-V CPU
+**Sep 2021 – May 2022 | CVA6/Ariane**
 
-Achievement and awards
-======
-* HPC Synergy workshop: Elevating AI with High performance parallel Computing(IIIT Sri City Chittoor)
-* Certification in Computer Architecture by Saylor Academy.
-* Workshop on CPU Design using Verilog by NIT TRICHY.
-* Course on Hardware Modeling using Verilog by NPTEL.
-* Course on GPU programming by Vishal Vinod(IIT Madras), Hardware for Deep learning by Adi Teman(Bar-IIan university, Israel), and Neuromorphic computing by Shubham Sahay(IIT Kanpur).
-* Workshop on Machine Learning on Hardware by NIT TRICHY.
-* Workshop in Embedded Systems and VLSI Design by IIT Kanpur.
-* Certification in FPGA Computing System by Coursera.
-* Attended 2nd Workshop on RISC-V and OpenPOWER in HPC at the ICS International Conference on Supercomputing, 2021.
-* Under top 10 performers in SoC Design using OpenPOWER workshop held by VIT and IBM.
-* Attended the 35th international conference on VLSI Design by VLSI Society India
-  
+- Verified CVA6/Ariane RV32/RV64 IMAFDC implementations with directed/constrained-random tests and RISC-V-DV-generated instruction streams.
+- Developed SystemVerilog/UVM tests for LSU, pipeline, and hazard behavior.
+- Used SPIKE and OVPSim as architectural reference models to validate instruction behavior and debug processor-level mismatches.
 
-Education
-======
-* B.E. in Electronics and Communication, passed out in 2015-2019 session with 7.19 CGPA from IES College of Technology, Bhopal, India.
+## Education
+
+**B.E., Electronics & Communication Engineering**  
+IES College of Technology, Bhopal (RGPV) · 2015–2019 · CGPA: 7.19/10
+
+## Training, workshops and recognition
+
+- CPU Design using Verilog — NIT Trichy workshop.
+- Computer Architecture — Saylor Academy certification.
+- FPGA Computing Systems — Coursera certification.
+- GPU Programming — IIT Madras.
+- HPC Synergy: Elevating AI with High-Performance Parallel Computing — IIIT Sri City workshop.
+- Machine Learning on Hardware — NIT Trichy workshop.
+- Hardware for Deep Learning — Bar-Ilan University workshop.
+- Embedded Systems and VLSI Design — IIT Kanpur workshop.
+- RISC-V and OpenPOWER in HPC — 2nd workshop, ICS International Conference on Supercomputing, 2021.
+- Top 10 Performer — SoC Design using OpenPOWER, VIT & IBM.
+- 35th International Conference on VLSI Design — attendee, VLSI Society India.
+
+---
+
+*Updated November 2026. This page is the current web CV; use the dates and role descriptions above as the source of truth for this website.*
