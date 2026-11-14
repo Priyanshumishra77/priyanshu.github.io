@@ -12,7 +12,7 @@ redirect_from:
 
 **CPU / SoC Design Verification Engineer | RISC-V | DSP/ASIP | Processor HW/SW Co-Verification**
 
-Bhopal, Madhya Pradesh, India · +91-9039391582 · [priyanshud141@gmail.com](mailto:priyanshud141@gmail.com)  
+Bengaluru, Karnataka, India · +91-9039391582 · [priyanshud141@gmail.com](mailto:priyanshud141@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/priyanshu-mishra-68837511b/) · [GitHub](https://github.com/Priyanshumishra77)
 
 ## Professional summary
