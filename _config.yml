@@ -11,8 +11,8 @@ title                    : "Priyanshu Mishra | CPU / SoC Design Verification"
 title_separator          : "-"
 name                     : &name "Priyanshu Mishra"
 description              : &description "CPU / SoC design verification engineer focused on RISC-V, DSP/ASIP HW/SW co-verification, and processor architecture."
-url                      : https://priyanshumishra77.github.io/priyanshu.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://priyanshumishra77.github.io
+baseurl                  : "/priyanshu.github.io" # GitHub Pages project-site path
 repository               : "priyanshu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

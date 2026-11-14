@@ -48,7 +48,7 @@ I am building my understanding through personal projects focused on LLM inferenc
 
 ## Self-directed coursework
 
-My architecture study has used publicly available course materials and resources from UC Berkeley, CMU, Stanford, Georgia Tech, UC Riverside, and other institutions. These are self-directed learning activities, not claims of enrollment in or completion of a degree programme. See [Learning & Workshops](/mooccourses/) for the course and workshop record.
+My architecture study has used publicly available course materials and resources from UC Berkeley, CMU, Stanford, Georgia Tech, UC Riverside, and other institutions. These are self-directed learning activities, not claims of enrollment in or completion of a degree programme. See [Learning & Workshops](https://priyanshumishra77.github.io/priyanshu.github.io/mooccourses/) for the course and workshop record.
 
 ## Publishing project work
 
