@@ -46,4 +46,4 @@ RVA23 is an architectural profile and does not define a CPU microarchitecture. T
 - MLCommons, [MLPerf Inference documentation](https://docs.mlcommons.org/inference/index_gh/).
 - Compute Express Link Consortium, [CXL 3.0 Specification](https://computeexpresslink.org/wp-content/uploads/2024/02/CXL-3.0-Specification.pdf).
 
-For the full evaluation plan, see the local [research proposal](Heterogeneous_SoC_Research_Proposal.md) or the project's technical write-up in this repository.
+Further technical details and reproducible artifacts will be added as the study progresses.
