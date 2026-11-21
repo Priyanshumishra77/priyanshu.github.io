@@ -17,6 +17,10 @@ This page is a curated archive of project topics from my self-directed work. Pro
 
 I am building my understanding through personal projects focused on LLM inference hardware. The work is ongoing. I plan to publish the architecture, implementation choices, verification approach, and results after the projects reach a reviewable state.
 
+### Heterogeneous SoC memory scheduling — research proposal
+
+I have developed an early proposal to study how memory arbitration and last-level-cache allocation affect an RISC-V CPU and inference accelerator under mixed workloads. It is a proposal only; implementation and measured results remain future work. [Read the research proposal](/portfolio/workload-aware-memory-scheduling/).
+
 ## Processor architecture and microarchitecture
 
 - 32-bit out-of-order Tomasulo execution engine.
