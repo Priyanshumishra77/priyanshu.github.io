@@ -14,6 +14,20 @@ How do memory scheduling and last-level-cache allocation policies change acceler
 
 The initial concept combined CPU cores, GPU, NPU, TPU, HBM, coherent mesh, AI-guided scheduling, DVFS, and edge and data-center targets. My handwritten first-step notes also explored cache replacement, dynamic core allocation, power gating, YAML-to-RTL workflows, interfaces, verification, and Linux bring-up. These ideas remain useful design history, but the first study needs a narrower, measurable boundary.
 
+## Early design notes
+
+These two photographs preserve my first handwritten architecture sketches. They are early ideas, not finalized specifications or evidence of implementation.
+
+<figure>
+  <img src="{{ site.baseurl }}/images/heterogeneous-soc-initial-notes-1.svg" alt="First handwritten page of early heterogeneous SoC architecture notes" loading="lazy">
+  <figcaption>Early design notes — page 1.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/heterogeneous-soc-initial-notes-2.svg" alt="Second handwritten page of early heterogeneous SoC architecture notes" loading="lazy">
+  <figcaption>Early design notes — page 2.</figcaption>
+</figure>
+
 ## First-study scope
 
 The proposed baseline uses one simulator-supported RISC-V CPU model, one abstract inference accelerator, private CPU caches, a shared last-level cache, and a documented memory path. The study will compare the simulator's default arbitration with fixed accelerator weighting, bounded priority, and cache partitioning where supported.
